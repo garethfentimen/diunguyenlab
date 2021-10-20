@@ -33,8 +33,14 @@ const Home = ({data}) => {
         </div>
         <div className="content">
           <p>
+            <Link className="btn" to={`/research`}>Research</Link>
+          </p>
+          <p>
             <Link className="btn" to={`/funding`}>Funding</Link>
-            <button className="btn">About us</button>
+          </p>
+          <p>
+            
+          <Link className="btn" to={`/funding`}>About us</Link>
           </p>
         </div>
       </div>
