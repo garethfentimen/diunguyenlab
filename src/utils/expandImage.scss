@@ -1,0 +1,26 @@
+.light-box {
+    border: .1rem solid gray;
+    position: absolute;
+    top: 77px;
+    left: 2rem;
+    background-color: white;
+    width: calc(100% - 4.25rem);
+    
+    > div {
+        padding: 0px .5rem;
+    }
+}
+
+.close {
+    margin-left: auto;
+    cursor: pointer;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #000;
+    background-color: transparent;
+    border: none;
+}
+
+.zoom-in {
+    cursor: zoom-in;
+}

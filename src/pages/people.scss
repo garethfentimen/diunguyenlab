@@ -5,11 +5,22 @@ h3 {
 }
 
 .pi {
+    margin-top: .5rem;
+
     .edu {
         > div {
-            margin: .25rem .5rem;
-            font-family: 'Exo2';
+            font-family: "exo2";
             font-weight: 300;
+            margin: .25rem .5rem;
         }
+    }
+}
+
+.image-right .image-text {
+    margin-right: 2rem;
+    p {
+        margin-block-start: .25rem;
+        margin-block-end: .25rem;
+        text-align: right;
     }
 }

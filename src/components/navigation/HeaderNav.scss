@@ -30,12 +30,24 @@ header {
 
     li a {
         color:#FFF;
+        color: #DDD097;
+        font-size: 1.25rem;
+        font-weight: bold;
         text-decoration: none;
         font-family: "Open Sans";
         font-size: 1.1rem;
     }
 
     .logo {
+        padding: 1rem;
+        color: #fefefe;
+        opacity: .9;
+        font-family: "OpenSans";
+        font-weight: bold;
+        margin: 0.25rem;
+        font-size: 1.5rem;
+        border-right: 0.1rem solid #fff;
+        /*border-radius: 1rem;*/
         height: auto;
         max-width: 280px;
         max-height: 74px;

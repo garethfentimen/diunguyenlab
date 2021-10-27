@@ -1,17 +1,14 @@
 import React from 'react'
 import Layout from '../components/layout/layout';
-import './publications.scss';
 
 export default function research() {
     return (
         <Layout>
             <div className="publications flex-column width-70">
-                <h2 className="text-center" style={{ fontFamily: 'Exo2', color: 'gray' }}>
-                    Publications
-                </h2>
                 <h3 style={{ fontFamily: 'Exo2', color: 'gray' }}>
                     Peer-reviewed Publications
                 </h3>
+
                 <div className="marg-left-md line-height-md">
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                         2021

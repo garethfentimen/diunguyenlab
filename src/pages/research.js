@@ -1,11 +1,8 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout/layout';
-import researchVision from '../images/research-vision-sm.jpg';
-import researchVisionSm from '../images/research-vision-xsm.jpg';
-import ptr from '../images/PTR.jpg';
-import ptrSm from '../images/PTR-sm.jpg';
-import coverImg from '../images/CoverImage1.jpg';
-import coverImgSm from '../images/CoverImage-xsm.jpg';
+import coverImg from '../images/CoverImage.jpg';
+import vision from '../images/Research_vision.svg';
+import researchPg from '../images/Research_page1.svg';
 import './research.scss';
 
 const ResearchComponent = () => {
@@ -37,24 +34,24 @@ const ResearchComponent = () => {
     
     return (
         <Layout>
-            <div class="research">
-                <h2 className="text-center width-70" style={{fontFamily: 'Exo2', color: 'gray'}}>Research</h2>
+            <div class="research marg-top-md">
 
                 <div className="flex">
                     <div><p>Stem cells are key to our normal development. When a stem cells divides into two, it creates one progenitor and one renews itself. The progenitor continues differentiating into mature specialized cells. Stem cells survive much longer than ordinary cells, increasing the chance of accumulating mutations. It might take only a few mutations for one cell to lose control over its self-renewal, divide uncontrollably and become the source of cancer.</p>
                     <p>Cancer stem cells (CSCs) are a small population of rare cells that can self-renew and differentiate into cancerous cells that proliferate uncontrollably, supplying the tumor mass. Conventional chemotherapies often target proliferating cells, leaving CSCs untouched. Therefore, CSCs are the underlying source of drug resistance and disease relapse. </p>
-                    <p>The overarching goal of my laboratory is to understand the biology of normal haematopoietic (HSCs) and leukaemic stem cells (LSCs) in order to selectively kill cancer stem cells for better leukaemia treatment.</p>  
                     </div>
                     
-                    <div style={{ padding: "0 1.5rem", minWidth: ".5rem"}}>
+                    <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
                     </div>
-                    {showExpandImage('Cover', showCoverImg, showLightBox, setCoverImg, coverImgSm, coverImg)}
-                    <div style={{ padding: "0 2rem", minWidth: ".5rem"}}>
+                    <img alt="Cancer Stem Cell Theory" src={researchPg} />
+                    <div style={{ padding: "0 .25rem", minWidth: ".5rem"}}>
                     </div>
                 </div>
 
                 <div className="flex">
                     <div>
+                    <p><strong>The overarching goal of my laboratory is to understand the biology of normal haematopoietic (HSCs) and leukaemic stem cells (LSCs) in order to selectively kill cancer stem cells for better leukaemia treatment.
+                        </strong></p>  
                         <p>Gene expression defines the fate and function of each cell. My recent work and others have demonstrated that post-transcriptional regulation of gene expression by RNA-binding proteins (RBPs) plays a critical role in cancer including leukemia (Vu,…, Nguyen et al. 2017; Nguyen et al. Nat. Comms 2020; Cheng,…, Nguyen et al. Cancer Cells 2021; Prieto and Nguyen et al. Nat Cancer 2021). Importantly, the identification of dysregulated RBPs in leukemia has led to the rapid development of therapeutic strategies to specifically target several RBPs (Minuesa et al. 2019; Han et al. 2017; Assouline et al. 2015). Despite their importance and therapeutic potential, only a small fraction of RNA regulators (>1,700 known RBPs, Castello et al. 2012; Graindorge et al 2019) has been investigated in leukemia. 
                         </p>
                         <p>My lab aims to expand our understanding on how dysregulated post-transcriptional processes contribute to the initiation and progression of various types of leukemia. We particularly focus on acute myeloid leukaemia (AML) which has been the most aggressive and fatal type. To achieve this aim, we will:
@@ -66,7 +63,11 @@ const ResearchComponent = () => {
                             <li>Elucidate the molecular basis for RBP functions in blood cancer.</li>
                         </ul>
                     </div>
-                    {showExpandImage('PTR', showPtr, showLightBox, setPtr, ptrSm, ptr)}
+                    <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
+                    </div>
+                    <img alt="" src={vision} /> 
+                    <div style={{ padding: "0 .25rem", minWidth: ".5rem"}}>
+                    </div>
                 </div>
 
                 <div className="flex">
@@ -75,28 +76,17 @@ const ResearchComponent = () => {
                         <p>We are always looking for highly motivated and enthusiastic people who are fascinated by cancer biology, RNA biology and novel cancer therapies. If you are interested in joining us, take a look at our people page and please do not hesitate to get in touch.</p> 
                     </div>
                 
-                    {showExpandImage('Vision', showVision, showLightBox, setVision, researchVisionSm, researchVision)}
+                    <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
+                    </div>
+                    <img alt="Cover Image" src={coverImg} />
+                    <div style={{ padding: "0 .25rem", minWidth: ".5rem"}}>
+                    </div>
                 </div>
+                <div style={{ margin: "2rem", minWidth: ".5rem"}}>
+                    </div>
             </div>
         </Layout>
     )
-}
-
-function showExpandImage(imageName, showVision, showLightBox, setClose, imgSmall, imgLarge) {
-    return showVision ?
-        <div class="light-box">
-            <div class="flex">
-                <h3 className="text-center width-100">{imageName}</h3>
-                <button className="close" ariaLabel="Close" onClick={() => setClose(false)}>
-                    <span ariaHidden="true">&times;</span>
-                </button>
-            </div>
-            <img src={imgLarge} className="vision-detail" alt={imageName} />
-        </div> : <img 
-            onClick={() => showLightBox(imageName)} 
-            src={imgSmall} 
-            className="vision zoom-in" alt={imageName} 
-        />;
 }
 
 export default ResearchComponent;

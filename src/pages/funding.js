@@ -5,7 +5,8 @@ import crukLogo from "../images/cruk-logo.svg"
 export default function funding() {
     return (
         <Layout>
-            <div className="width-100 flex-column">
+            <div className="width-100 flex-column marg-top-md">
+
             <div className="marg-top-sm width-100" style={{width: "20rem", marginLeft: "calc(50% - 10rem)"}}>
                 <img src={crukLogo} alt="CRUK Logo" />
                 
