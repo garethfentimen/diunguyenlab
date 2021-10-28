@@ -73,7 +73,7 @@ const ResearchComponent = () => {
                 <div className="flex">
                     <div>
                         <p>We will address this question using state-of-the-art tools including unbiased omic approaches to map RBPs’ binding sites and activities including HyperTRIBE (Nguyen et al., Nat Comms, 2020), Ribo-STAMP (Brannan et al. Nat Methods 2021) and high-end Mass spectrometry, combined with molecular biology techniques, on animal models, human primary samples and xenografts. </p>
-                        <p>The ultimate goal of our research is to determine the potential targetable RBPs and their molecular mechanisms of action. Once validated, these targets can be used for designing innovative drugs that selectively eradicate LSCs in AML, while sparing normal HSCs.</p>
+                        <p><strong>The ultimate goal of our research is to determine the potential targetable RBPs and their molecular mechanisms of action. Once validated, these targets can be used for designing innovative drugs that selectively eradicate LSCs in AML, while sparing normal HSCs.</strong></p>
                         
                     </div>
                 
