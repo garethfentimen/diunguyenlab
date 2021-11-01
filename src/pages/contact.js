@@ -17,7 +17,7 @@ export default function Contact() {
     return (
         <Layout>
               <div className="flex-column" style={{marginBottom: '1rem'}}>
-                <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interesting in working with us, do not hesitate to email:</h3>
+                <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, do not hesitate to email:</h3>
                 <div style={{marginLeft: "5vw"}} className="flex">
                     <div className="flex" role="button">
                         <p tabIndex={0} style={{width: 'fit-content', padding: '.25rem 0.75rem', cursor: 'pointer', boxShadow: '1px 1px 1px 1px #001d5826'}} onClick={(e) => onClickEmail(e, setShowTickGmail)}>
