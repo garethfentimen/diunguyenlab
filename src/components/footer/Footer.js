@@ -7,7 +7,7 @@ import qmul from '../../images/qmul.png'
 export default function HeaderNav() {
     return <footer>
         <div className="flex">
-            <div className="lab-detail"><p>The Diu Nguyen Lab</p>
+            <div className="lab-detail"><p>The DiuNguyen Lab</p>
                 <p>Centre for Haemato-oncology</p>
                 <p>Cancer Research UK Barts Centre</p>
                 <p>Barts and The London School of Medicine and Dentistry</p>
@@ -40,7 +40,7 @@ export default function HeaderNav() {
             </div>
         </div>
         <div className="flex align-center copyright">
-            ©2021 Diu Nguyen Lab, Cancer Research UK Barts Centre
+            ©2021 Diu NguyenLab, Cancer Research UK Barts Centre
         </div>
     </footer>;
 }
