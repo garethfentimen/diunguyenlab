@@ -34,9 +34,9 @@ const Home = ({data}) => {
           <div id="ScrollCheck" className="scroll-check"></div>
           <div className="exp-images">
           <div className="banner">
-            <span className="welcome">Welcome to the Diu Nguyen Lab</span>
+            <span className="welcome">Welcome to the DiuNguyen Lab</span>
           </div>
-          <img alt="Welcome to the Diu Nguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
+          <img alt="Welcome to the DiuNguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
         </div>
         <div className="content">
           <h3 style={{fontFamily: 'Exo2', color: 'gray'}}>Research Overview</h3>
