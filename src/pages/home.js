@@ -66,7 +66,7 @@ const Home = ({data}) => {
           </ul>
 
           <p>To answer these questions, we will undertake a multidisciplinary approach integrating hematopoietic assays, RNA-editing based technology, proteomics and molecular biology in cell lines, mouse genetic models and patient primary cells and -derived xenografts.</p>
-          <p>We aim to build a strong team of curious and highly motivated scientists who are driven to study RNA biology in normal development and cancer and to identify new therapeutic opportunities. We support and help our team members’ to achieve their career goals and personal development.</p>
+          <p>We aim to build a strong team of curious and highly motivated scientists who are driven to study RNA biology in normal development and cancer and to identify new therapeutic opportunities. We support and help our team members to achieve their career goals and personal development.</p>
 
           {/* <p>
             <Link className="btn" to={`/funding`}>Funding</Link>
