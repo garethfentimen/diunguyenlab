@@ -1,19 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Layout from '../components/layout/layout'
 import diu from '../images/nguyen-diu.jpeg';
-import { copyTextToClipboard } from '../utils/copyToClipboard';
 import './people.scss'
 
 export default function People() {
-    const [ showTick, setShowTick ] = useState();
-    const onClickEmail = (e) => {
-        var emailSpan = document.getElementById('email');
-        copyTextToClipboard && emailSpan && copyTextToClipboard(emailSpan.innerText);
-        setShowTick(true);
-        if (typeof window !== 'undefined') {
-            window.setTimeout(() => setShowTick(false), 2500);
-        }
-    }
     return (
         <Layout>
             <div>
