@@ -37,8 +37,8 @@ const ResearchComponent = () => {
             <div class="research marg-top-md">
 
                 <div className="flex">
-                    <div><p>Stem cells are key to our normal development. When a stem cells divides into two, it creates one progenitor and one renews itself. The progenitor continues differentiating into mature specialized cells. Stem cells survive much longer than ordinary cells, increasing the chance of accumulating mutations. It might take only a few mutations for one cell to lose control over its self-renewal, divide uncontrollably and become the source of cancer.</p>
-                    <p>Cancer stem cells (CSCs) are a small population of rare cells that can self-renew and differentiate into cancerous cells that proliferate uncontrollably, supplying the tumor mass. Conventional chemotherapies often target proliferating cells, leaving CSCs untouched. Therefore, CSCs are the underlying source of drug resistance and disease relapse. </p>
+                    <div><p>Stem cells are key to our normal development. When a stem cell divides into two, it creates one progenitor and one renews itself. The progenitor continues differentiating into mature specialized cells while the stem cell repeats the division cycle of making progenitors and reproducing themselves. Stem cells survive much longer than ordinary cells, increasing the chance of accumulating mutations. It might take only a few mutations for one cell to lose control over its self-renewal, divide uncontrollably and become the source of cancer.</p>
+                    <p>Cancer stem cells (CSCs) are a small population of rare cells that can self-renew and differentiate into cancerous cells that proliferate uncontrollably, supplying the tumor mass. Conventional therapies, such as chemo- or radiotherapy, often target proliferating cells, leaving CSCs untouched. Therefore, CSCs are the underlying source of drug resistance and disease relapse. </p>
                     </div>
                     
                     <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
@@ -50,11 +50,11 @@ const ResearchComponent = () => {
 
                 <div className="flex">
                     <div>
-                    <p><strong>The overarching goal of my laboratory is to understand the biology of normal haematopoietic (HSCs) and leukaemic stem cells (LSCs) in order to selectively kill cancer stem cells for better leukaemia treatment.
+                    <p><strong>The overarching goal of our laboratory is to understand the biology of normal haematopoietic (HSCs) and leukaemic stem cells (LSCs) in order to selectively kill cancer stem cells for better leukaemia treatment.
                         </strong></p>  
-                        <p>Gene expression defines the fate and function of each cell. My recent work and others have demonstrated that post-transcriptional regulation of gene expression by RNA-binding proteins (RBPs) plays a critical role in cancer including leukemia (Vu,…, Nguyen et al. 2017; Nguyen et al. Nat. Comms 2020; Cheng,…, Nguyen et al. Cancer Cells 2021; Prieto and Nguyen et al. Nat Cancer 2021). Importantly, the identification of dysregulated RBPs in leukemia has led to the rapid development of therapeutic strategies to specifically target several RBPs (Minuesa et al. 2019; Han et al. 2017; Assouline et al. 2015). Despite their importance and therapeutic potential, only a small fraction of RNA regulators (>1,700 known RBPs, Castello et al. 2012; Graindorge et al 2019) has been investigated in leukemia. 
+                        <p>Gene expression defines the fate and function of each cell. Our recent work and others have demonstrated that post-transcriptional regulation of gene expression by RNA-binding proteins (RBPs) plays a critical role in cancer including leukaemia (Vu,…, Nguyen et al. 2017; Nguyen et al. Nat. Comms 2020; Cheng,…, Nguyen et al. Cancer Cells 2021; Prieto and Nguyen et al. Nat Cancer 2021). Importantly, the identification of dysregulated RBPs in leukaemia has led to the rapid development of therapeutic strategies to specifically target several RBPs (Minuesa et al. 2019; Han et al. 2017; Assouline et al. 2015). Despite their importance and therapeutic potential, only a small fraction of RNA regulators (>1,700 known RBPs, Castello et al. 2012; Graindorge et al 2019) has been investigated in leukaemia. 
                         </p>
-                        <p>My lab aims to expand our understanding on how dysregulated post-transcriptional processes contribute to the initiation and progression of various types of leukemia. We particularly focus on acute myeloid leukaemia (AML) which has been the most aggressive and fatal type. To achieve this aim, we will:
+                        <p>Our lab aims to expand understanding of how dysregulated post-transcriptional processes contribute to the initiation and progression of various types of leukaemia. We particularly focus on acute myeloid leukaemia (AML) which has been one of the most aggressive and fatal types of blood cancer. To achieve this aim, we will:
                         </p>
 
                         <ul>

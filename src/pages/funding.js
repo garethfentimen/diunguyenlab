@@ -8,13 +8,13 @@ export default function funding() {
             <div className="width-100 flex-column marg-top-md">
 
             <div className="marg-top-sm width-100" style={{width: "20rem", marginLeft: "calc(50% - 10rem)"}}>
-                <img src={crukLogo} alt="CRUK Logo" />
-                
+                         
             </div>
-<h2 class="text-center">Cancer Research UK (CRUK) Career Development Fellowship</h2>
+<p class="text-center"><strong>Cancer Research UK (CRUK) Career Development Fellowship</strong></p>
             <div className="width-100 flex-column text-center">
                 <p>“Targeting Post-transcriptional Regulators to Eradicate Leukemic Stem Cells in Acute Myeloid Leukemia”. 1,258,197GBP. 2022-2028</p>
-                <p>"American Society of Hematology Scholar Award". $100,000. 2021-2023</p>
+                <p><strong>American Society of Hematology Scholar Award. </strong></p>
+                <p>“Uncovering differential translational program in AML”. $100,000. 2021-2023</p>
             </div>
             </div>
         </Layout>

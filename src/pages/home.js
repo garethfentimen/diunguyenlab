@@ -34,9 +34,9 @@ const Home = ({data}) => {
           <div id="ScrollCheck" className="scroll-check"></div>
           <div className="exp-images">
           <div className="banner">
-            <span className="welcome">Welcome to the Diu Nguyen Lab</span>
+            <span className="welcome">Welcome to the DiuNguyen Lab</span>
           </div>
-          <img alt="Welcome to the Diu Nguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
+          <img alt="Welcome to the DiuNguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
         </div>
         <div className="content">
           <h3 style={{fontFamily: 'Exo2', color: 'gray'}}>Research Overview</h3>
@@ -66,7 +66,7 @@ const Home = ({data}) => {
           </ul>
 
           <p>To answer these questions, we will undertake a multidisciplinary approach integrating hematopoietic assays, RNA-editing based technology, proteomics and molecular biology in cell lines, mouse genetic models and patient primary cells and -derived xenografts.</p>
-          <p>We aim to build a strong team of curious and highly motivated scientists who are driven to study RNA biology in normal development and cancer and to identify new therapeutic opportunities. We support and help our team members’ to achieve their career goals and personal development.</p>
+          <p>We aim to build a strong team of curious and highly motivated scientists who are driven to study RNA biology in normal development and cancer and to identify new therapeutic opportunities. We support and help our team members to achieve their career goals and personal development.</p>
 
           {/* <p>
             <Link className="btn" to={`/funding`}>Funding</Link>
