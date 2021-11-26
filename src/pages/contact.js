@@ -20,7 +20,8 @@ export default function Contact() {
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, please contact:</h3>
                 <p>      
                 Dr. Diu Nguyen </p>
-                <div className="lab-detail"><p>Barts Cancer Institute,</p>
+                <div className="lab-address">
+                  <p>Barts Cancer Institute</p>
                   <p>Centre for Haemato-oncology</p>
                   <p>Queen Mary University of London</p>
                   <p>John Vane Science Centre</p>
