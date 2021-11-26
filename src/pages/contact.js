@@ -20,8 +20,10 @@ export default function Contact() {
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, please contact:</h3>
                 <p>      
                 Dr. Diu Nguyen </p> 
-                
+                <p>
                 Barts Cancer Institute, Centre for Haemato-Oncology, Queen Mary University of London, John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
+                </p>
+
                 <p>
                 Email: thanhdiu.nguyen@gmail.com 
                 </p>
