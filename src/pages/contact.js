@@ -26,10 +26,10 @@ export default function Contact() {
                 
                 Follow us on Twitter: @diunguyen_vn_uk
                 
-                More information about BCI and CRUK Barts Centre
-
+                More information about BCI and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
+</a>
                 </div>    
-              </div>
+             
         </Layout>
     )
 }
