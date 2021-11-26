@@ -22,10 +22,8 @@ export default function Contact() {
                 Dr. Diu Nguyen </p>
                 <div className="lab-address">
                   <p>Barts Cancer Institute</p>
-                  <p>Centre for Haemato-oncology</p>
-                  <p>Queen Mary University of London</p>
-                  <p>John Vane Science Centre</p>
-                  <p>Charterhouse Square</p>
+                  <p>Centre for Haemato-oncology, Queen Mary University of London</p>
+                  <p>John Vane Science Centre, Charterhouse Square</p>
                   <p>London EC1M 6BQ</p>
                 </div>
                 <p>
