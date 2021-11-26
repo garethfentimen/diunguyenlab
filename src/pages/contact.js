@@ -19,10 +19,14 @@ export default function Contact() {
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, please contact:</h3>
                 <p>      
-                Dr. Diu Nguyen </p> 
-                <p>
-                Barts Cancer Institute, Centre for Haemato-Oncology, Queen Mary University of London, John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
-                </p>
+                Dr. Diu Nguyen </p>
+                <div className="lab-detail"><p>Barts Cancer Institute,</p>
+                  <p>Centre for Haemato-oncology</p>
+                  <p>Queen Mary University of London</p>
+                  <p>John Vane Science Centre</p>
+                  <p>Charterhouse Square</p>
+                  <p>London EC1M 6BQ</p>
+                </div>
                 <p>
                 Email: thanhdiu.nguyen@gmail.com 
                 </p>
