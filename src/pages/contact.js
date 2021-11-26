@@ -23,11 +23,12 @@ export default function Contact() {
                 <p>
                 Barts Cancer Institute, Centre for Haemato-Oncology, Queen Mary University of London, John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
                 </p>
-
                 <p>
                 Email: thanhdiu.nguyen@gmail.com 
                 </p>
+                <p>
                 Follow us on Twitter: @diunguyen_vn_uk
+                </p>
                 <p>
                 More information about <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">BCI</a> and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
 </a>
