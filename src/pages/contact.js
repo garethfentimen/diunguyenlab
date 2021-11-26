@@ -17,24 +17,17 @@ export default function Contact() {
     return (
         <Layout>
               <div className="flex-column" style={{marginBottom: '1rem'}}>
-                <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, do not hesitate to email:</h3>
-                <div style={{marginLeft: "5vw"}} className="flex">
-                    <div className="flex" role="button">
-                        <p tabIndex={0} style={{width: 'fit-content', padding: '.25rem 0.75rem', cursor: 'pointer', boxShadow: '1px 1px 1px 1px #001d5826'}} onClick={(e) => onClickEmail(e, setShowTickGmail)}>
-                            <span id="email">thanhdiu.nguyen@gmail.com</span>
-                        </p>
-                        {showTickGmail && <div className="marg-left-lg flex"><span className="green-check"></span><p>Copied to clipboard</p></div>}
-                    </div>
-                    <div style={{margin: "1rem 2rem", fontSize: '1.4rem'}}>or</div>     
-                    <div className="flex" role="button">
-                        <p tabIndex={0} style={{width: 'fit-content', padding: '.1rem 0.5rem', cursor: 'pointer', boxShadow: '1px 1px 1px 1px #001d5826'}} onClick={(e) => onClickEmail(e, setShowTick)}>
-                            <span id="email">nguyend@mskcc.org</span>
-                        </p>
-                        {showTick && <div className="marg-left-lg flex"><span className="green-check"></span><p>Copied to clipboard</p></div>}
-                    </div>
-                </div> 
-                <div>
-                Address: John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
+                <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, please contact:</h3>
+                <p>      
+                Dr. Diu Nguyen </p> 
+                Barts Cancer Institute, Centre for Haemato-Oncology, Queen Mary University of London, John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
+                
+                Email: thanhdiu.nguyen@gmail.com 
+                
+                Follow us on Twitter: @diunguyen_vn_uk
+                
+                More information about BCI and CRUK Barts Centre
+
                 </div>    
               </div>
         </Layout>
