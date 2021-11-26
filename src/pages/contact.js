@@ -26,7 +26,7 @@ export default function Contact() {
                 
                 Follow us on Twitter: @diunguyen_vn_uk
                 
-                More information about BCI and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
+                More information about <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">BCI and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
 </a>
                 </div>    
              
