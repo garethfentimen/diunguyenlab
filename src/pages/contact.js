@@ -32,7 +32,10 @@ export default function Contact() {
                         </p>
                         {showTick && <div className="marg-left-lg flex"><span className="green-check"></span><p>Copied to clipboard</p></div>}
                     </div>
-                </div>      
+                </div> 
+                <div>
+                Address: John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
+                </div>    
               </div>
         </Layout>
     )
