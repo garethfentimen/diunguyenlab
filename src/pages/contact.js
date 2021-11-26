@@ -20,14 +20,16 @@ export default function Contact() {
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>Should you be interested in working with us, please contact:</h3>
                 <p>      
                 Dr. Diu Nguyen </p> 
+                
                 Barts Cancer Institute, Centre for Haemato-Oncology, Queen Mary University of London, John Vane Science Centre, Charterhouse Square, London EC1M 6BQ
-                
+                <p>
                 Email: thanhdiu.nguyen@gmail.com 
-                
+                </p>
                 Follow us on Twitter: @diunguyen_vn_uk
-                
-                More information about <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">BCI and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
+                <p>
+                More information about <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">BCI</a> and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre
 </a>
+                </p>
                 </div>    
              
         </Layout>
