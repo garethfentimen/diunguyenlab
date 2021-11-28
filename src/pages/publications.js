@@ -19,7 +19,7 @@ export default function research() {
                         </li>
                         <li>
                             <div>Coraline Mlynarczyk, Matthew Teater, Juhee Pae, Theinmozhi Arulraj, Christopher R Chin, Ling Wang, Jonatan Ersching, Ekaterina Kots, Amy Chadburn, Ersilia Barin, Hui Xian Poh, Hannah M Isles, Chen Zhengming, Hao Shen, Arnab Bandyopadhyay, Kenneth B Hoehn, <strong>Diu T.T. Nguyen</strong>, Ashley S Doane, Huimin Geng, Muhammad H Rehman, Jonah Melnick, Wyatt Morgan, Olivier Elemento, Michael G Kharas, David W. Scott, Samie R Jaffrey, Michael Meyer-Hermann, George Khelashvili, Gabriel Victora, Ari Melnick. 2021. BTG1 Mutation Promotes Aggressive Lymphoma Development By Lowering the Threshold to MYC Activation and Generating "Super-Competitor" B Cells. Blood (Supplement 1): 359.</div>
-                        </liv>
+                        </li>
                         <li>
                             <div>Camila Prieto*, <strong>Diu TT Nguyen</strong>*, Zhaoqi Liu, Justin Wheat, Alexendar Perez, Saroj Gourkanti, Timothy Chou, Ersilia Barin, Anthony Velleca, Thomas Rohwetter, Arthur Chow, James Taggart, Angela M Savino, Katherina Hoskova, Meera Dhodapkar, Alexandra Schurer, Trevor S Barlowe, Ly P Vu, Christina Leslie, Ulrich Steidl, Raul Rabadan, Michael G Kharas. 2021. Transcriptional control of CBX5 by the RNA binding proteins RBMX and RBMXL1 maintain chromatin state in myeloid leukemia. Nature Cancer 2, 741-757. * Equal contribution.</div>
                         </li>
