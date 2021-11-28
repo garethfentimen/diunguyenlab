@@ -15,7 +15,7 @@ export default function research() {
                     </h3>
                     <ul>
                         <li>
-                            <div>Ly P Vu Florisela Herrejon Chavez, Paolo Cifani, Alli Pine, Karen L Chu, Ersilia Barin, Alexandra Schurer, Hanzhi Luo, <strong>Diu T.T. Nguyen</strong>, Alex Kentsis, Christina Leslie, Michael G Kharas. 2021. RNA Binding Protein Syncrip Is Required for the Low-Output HSC By Sustaining Proteome Quality. Blood. 138 (Supplement 1): 296. </div>
+                            <div>Ly P Vu Florisela Herrejon Chavez, Paolo Cifani, Alli Pine, Karen L Chu, Ersilia Barin, Alexandra Schurer, Hanzhi Luo, <strong>Diu T.T. Nguyen</strong>, Alex Kentsis, Christina Leslie, Michael G Kharas. 2021. RNA Binding Protein Syncrip Is Required for the Low-Output HSC By Sustaining Proteome Quality. Blood. 138 (Supplement 1): 296.</div>
                         </li>
                         <li>
                             <div>Coraline Mlynarczyk, Matthew Teater, Juhee Pae, Theinmozhi Arulraj, Christopher R Chin, Ling Wang, Jonatan Ersching, Ekaterina Kots, Amy Chadburn, Ersilia Barin, Hui Xian Poh, Hannah M Isles, Chen Zhengming, Hao Shen, Arnab Bandyopadhyay, Kenneth B Hoehn, <strong>Diu T.T. Nguyen</strong>, Ashley S Doane, Huimin Geng, Muhammad H Rehman, Jonah Melnick, Wyatt Morgan, Olivier Elemento, Michael G Kharas, David W. Scott, Samie R Jaffrey, Michael Meyer-Hermann, George Khelashvili, Gabriel Victora, Ari Melnick. 2021. BTG1 Mutation Promotes Aggressive Lymphoma Development By Lowering the Threshold to MYC Activation and Generating "Super-Competitor" B Cells. Blood (Supplement 1): 359.</div>
