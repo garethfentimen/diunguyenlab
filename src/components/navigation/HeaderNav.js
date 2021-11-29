@@ -50,7 +50,7 @@ export default function HeaderNav() {
                     </li>
                     <li className="nav-item">
                         <Link to={`/contact`}>
-                            Contact
+                            Vacancies/Lab Contact
                         </Link>
                     </li>
                 </ul>
