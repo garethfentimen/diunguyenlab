@@ -37,8 +37,7 @@ export default function Contact() {
                 
                 <p>
                 Application deadline: Open until the positions are filled. Starting date: April 1st 2022. </p>
-                </p>
-                
+
                 <p>
                 <Strong>Additionally, MSc students and PhD candidates are always welcome to contact us for possible opportunities.</strong>
                 </p>
