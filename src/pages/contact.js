@@ -19,7 +19,7 @@ export default function Contact() {
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>New openings:</h3>
                 <p>
-                <Strong>A Postdoctoral Research Scientist</strong>
+                <strong>A Postdoctoral Research Scientist</strong>
                 </p>
 
                 
