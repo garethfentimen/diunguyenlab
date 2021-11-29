@@ -35,7 +35,7 @@ export default function Contact() {
                  development and maintenance of leukaemia, (2) to determine if they have a differential role in normal haematopoiesis, and (3) to understand the 
                  molecular mechanism(s) underlying RBPs function in blood cancer. The project will employ in vitro and in vivo hematopoietic assays, 
                      transcriptome-wide RBPs’ target identification, proteomics, imaging, molecular biology and bioinformatic analyses, 
-                         using human and mouse cell cultures as well as genetic knockout/knockin models. You will be a key member of the group and enjoy a vibrant multidisciplinary environment at BCI, and will be supported to develop their scientific career and have an impact in the RNA and cancer field.
+                         using human and mouse cell cultures as well as genetic knockout/knockin models. You will be a key member of the group and enjoy a vibrant multidisciplinary environment at BCI, and will be supported to develop your scientific career and have an impact in the RNA and cancer field.
                 </p>
 
                 <p>
