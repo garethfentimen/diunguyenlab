@@ -19,15 +19,11 @@ export default function Contact() {
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>New openings:</h3>
                 <p>
-                <strong>A Postdoctoral Research Scientist</strong>
+                <strong> - A Postdoctoral Research Scientist</strong>
                 </p>
 
                 <p>
-                <strong>A Research Assistant</strong>
-                </p>
-
-                <p>
-                Descriptions are as below.
+                <strong> - A Research Assistant</strong>
                 </p>
 
                 <p>
@@ -39,11 +35,7 @@ export default function Contact() {
                  development and maintenance of leukaemia, (2) to determine if they have a differential role in normal haematopoiesis, and (3) to understand the 
                  molecular mechanism(s) underlying RBPs function in blood cancer. The project will employ in vitro and in vivo hematopoietic assays, 
                      transcriptome-wide RBPs’ target identification, proteomics, imaging, molecular biology and bioinformatic analyses, 
-                         using human and mouse cell cultures as well as genetic knockout/knockin models.
-                </p>
-
-                <p>
-                 You will be a key member of the group and enjoy a vibrant multidisciplinary environment at BCI, and will be supported to develop their scientific career and have an impact in the RNA and cancer field.
+                         using human and mouse cell cultures as well as genetic knockout/knockin models. You will be a key member of the group and enjoy a vibrant multidisciplinary environment at BCI, and will be supported to develop their scientific career and have an impact in the RNA and cancer field.
                 </p>
 
                 <p>
@@ -55,14 +47,10 @@ export default function Contact() {
                 </p>
 
                 <p>
-                <strong>Additionally, MSc students and PhD candidates are always welcome to contact us for possible opportunities.</strong>
+                <strong> - Additionally, MSc students and PhD candidates are always welcome to contact us for possible opportunities.</strong> More about MSc and PhD programs at Barts Cancer Institute are available at 
+                    <a href="https://www.bartscancer.london/study-at-bci/postgraduate-research/" target="_blank" rel="noopener noreferrer"> Postgraduate Study at BCI</a>
                 </p>
 
-                <p>
-                More about MSc and PhD programs at Barts Cancer Institute are available at 
-                    <a href="https://www.bartscancer.london/study-at-bci/postgraduate-research/" target="_blank" rel="noopener noreferrer">Postgraduate Study at BCI</a>
-                </p>
-                
                 <p>
                 <strong> Should you be interested in working with us, please contact:</strong>
                 </p>
