@@ -47,7 +47,7 @@ export default function Contact() {
                 </p>
 
                 <p>
-                <strong> - Additionally, MSc students and PhD candidates are always welcome to contact us for possible opportunities.</strong> More about MSc and PhD programs at Barts Cancer Institute are available at 
+                <strong> - Additionally, MSc students and PhD candidates are always welcome to contact us for potential opportunities.</strong> More about MSc and PhD programs at Barts Cancer Institute are available at 
                     <a href="https://www.bartscancer.london/study-at-bci/postgraduate-research/" target="_blank" rel="noopener noreferrer"> Postgraduate Study at BCI</a>
                 </p>
 
