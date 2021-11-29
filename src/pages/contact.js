@@ -73,9 +73,7 @@ export default function Contact() {
                 </p>
 
                 <p>
-                More information about 
-                    <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">BCI</a> 
-                     and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre</a>
+                More information about <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer"> BCI</a> and <a href="https://www.bartscancer.london/" target="_blank" rel="noopener noreferrer">CRUK Barts Centre</a>
                 </p>
 
                 </div>
