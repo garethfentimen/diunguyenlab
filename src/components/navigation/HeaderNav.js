@@ -33,9 +33,7 @@ export default function HeaderNav() {
                     </li>
                     <li className="nav-item">
                         <Link to={`/people`}>
-                            <div className="flex">
                                 People
-                            </div>
                         </Link>
                     </li>
                     <li className="nav-item">
