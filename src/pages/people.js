@@ -10,11 +10,7 @@ export default function People() {
                 <div className="flex pi">
                     <div className="flex-column">
                         <h3 style={{color: 'gray'}}>Principle Investigator:</h3>
-                        <div>
-                            Education and Training
-                        </div>
-                        <div style={{marginLeft: ".5rem"}}>
-                        </div>
+                 
                     </div>
                     <div>
                         <h3 className="marg-left-xs">Diu T.T. Nguyen, PhD</h3>
