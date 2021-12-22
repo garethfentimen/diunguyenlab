@@ -1,11 +1,13 @@
 import React from 'react'
-import Layout from '../components/layout/layout'
+import Layout from '../components/layout/layout';
+import Seo from "../components/seo/seo";
 import diu from '../images/nguyen-diu.jpeg';
 import './people.scss'
 
 export default function People() {
     return (
         <Layout>
+            <Seo title="People" />
             <div>
                 <div className="flex pi">
                     <div className="flex-column">

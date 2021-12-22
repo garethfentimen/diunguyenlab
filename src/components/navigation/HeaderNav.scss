@@ -87,9 +87,9 @@ header {
         max-height: 74px;
         transition: all 0.25s linear;
     }
-
+    
     li a {
-        color: $darkerBlue;
+        color: #DDD097;
         font-size: 1.25rem;
         font-weight: bold;
         text-decoration: none;
@@ -107,6 +107,10 @@ header {
     header {
         margin: 0 .25rem;
         width: calc(100% - .5rem);
+        li a {
+        
+            color: $darkerBlue;
+        }
     }
 
     .nav-menu {
@@ -129,7 +133,6 @@ header {
 
     .nav-item {
         margin: 1.25rem 0;
-        color: $darkerBlue;
     }
 
     .hamburger {

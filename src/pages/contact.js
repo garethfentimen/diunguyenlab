@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout/layout';
+import Seo from "../components/seo/seo";
 import './contact.scss';
 import { copyTextToClipboard } from '../utils/copyToClipboard';
 
@@ -16,6 +17,7 @@ export default function Contact() {
     }
     return (
         <Layout>
+            <Seo title="Opportunities | Contact" />
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>New openings:</h3>
                 <p>

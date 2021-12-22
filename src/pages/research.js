@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout/layout';
+import Seo from "../components/seo/seo";
 import coverImg from '../images/CoverImage.jpg';
 import vision from '../images/Research_vision.svg';
 import researchPg from '../images/Research_page1.svg';
@@ -34,6 +35,7 @@ const ResearchComponent = () => {
     
     return (
         <Layout>
+            <Seo title="Research" />
             <div class="research marg-top-md">
 
                 <div className="flex">
