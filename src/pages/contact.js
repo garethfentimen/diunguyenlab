@@ -21,19 +21,16 @@ export default function Contact() {
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>New openings:</h3>
                 <p>
-                <strong> - A Postdoctoral Research Scientist</strong>
+                <strong> - A Postdoctoral Research Scientist (5 year fixed term)</strong>
                 </p>
 
                 <p>
-                <strong> - A Research Assistant</strong>
+                <strong> - A Research Assistant (2 year fixed term with possible extension)</strong>
                 </p>
 
                 <p>
-                 Applications are sought for a Postdoctoral Research Scientist (5 year fixed term) and a Research Assistant (2 year fixed term with possible extension) 
-                 in our group, for a Cancer Research UK funded research project to study the role of RNA binding proteins in Myeloid Leukaemia.
-                 Our lab studies the role of RNA-Binding Proteins (RBPs) in the survival of leukaemic stem cells in acute myeloid leukaemia, 
-                 with the goal of determining druggable targets to improve leukaemia treatment. 
-                 This exciting project aims (1) to interrogate the hypothesis whether altered post-transcriptional regulation by RBPs leads to the 
+                 Applications are sought for the above positions in our group, for a Cancer Research UK funded research project to study the role of RNA binding proteins in Myeloid Leukaemia.
+                This exciting project aims (1) to interrogate the hypothesis whether altered post-transcriptional regulation by RBPs leads to the 
                  development and maintenance of leukaemia, (2) to determine if they have a differential role in normal haematopoiesis, and (3) to understand the 
                  molecular mechanism(s) underlying RBPs function in blood cancer. The project will employ in vitro and in vivo hematopoietic assays, 
                      transcriptome-wide RBPs’ target identification, proteomics, imaging, molecular biology and bioinformatic analyses, 
