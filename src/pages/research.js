@@ -60,9 +60,9 @@ const ResearchComponent = () => {
                         </p>
 
                         <ul>
-                            <li>Determine the role of a subset of aberrantly expressed RBPs in LSC survival and whether they contribute to leukaemia pathogenesis.</li>
-                            <li>Investigate how these RBPs control normal HSCs behaviours.</li>
-                            <li>Elucidate the molecular basis for RBP functions in blood cancer.</li>
+                            <li>1. Determine the role of a subset of aberrantly expressed RBPs in LSC survival and whether they contribute to leukaemia pathogenesis.</li>
+                            <li>2. Investigate how these RBPs control normal HSCs behaviours.</li>
+                            <li>3. Elucidate the molecular basis for RBP functions in blood cancer.</li>
                         </ul>
                     </div>
                     <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
