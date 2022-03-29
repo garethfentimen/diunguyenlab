@@ -25,7 +25,7 @@ export default function Contact() {
                 </p>
 
                 <p>
-                <strong> - A Research Assistant (2 year fixed term with possible extension)</strong>
+                <strong> - An Research Assistant (2 year fixed term with possible extension)</strong>
                 </p>
 
                 <p>
