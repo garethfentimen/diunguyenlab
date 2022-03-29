@@ -42,7 +42,7 @@ export default function Contact() {
                 </p>
 
                 <p>
-                Application deadline: Open until the positions are filled. Starting date: April 1st 2022. 
+                Application deadline: Open until the positions are filled. Expected starting date: May 1st 2022 or soon after.
                 </p>
 
                 <p>
