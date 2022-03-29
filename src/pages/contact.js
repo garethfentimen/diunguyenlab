@@ -64,7 +64,7 @@ export default function Contact() {
                 </div>
 
                 <p>
-                Email: thanhdiu.nguyen@gmail.com 
+                Email: t.d.nguyen@qmul.ac.uk or thanhdiu.nguyen@gmail.com 
                 </p>
 
                 <p>
