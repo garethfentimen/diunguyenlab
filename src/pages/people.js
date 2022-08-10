@@ -25,7 +25,7 @@ export default function People() {
                     </div>
                 </div>
                 <p>
-                    <strong>Diu T.T. Nguyen, PhD., is an incoming Group Leader and Lecturer at the Barts Cancer Centre, Queen Mary University of London in 2022. 
+                    <strong>Diu T.T. Nguyen, PhD., is a Group Leader and Lecturer at the Barts Cancer Centre, Queen Mary University of London in 2022. 
                     </strong>
                 </p>
                 <p>
@@ -49,7 +49,7 @@ export default function People() {
                     <li>
                     PhD students
                     </li>
-                    <li>Masters students</li>
+                   
                 </ul>
             </div>
             <div className="align-right image-right">
