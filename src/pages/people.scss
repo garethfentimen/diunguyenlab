@@ -1,7 +1,15 @@
+@import '../styles/palette.scss';
+
 h3 {
     margin-block-start: 1rem;
     margin-block-end: 0.5rem;
     font-size: 1.4rem;
+}
+
+hr {
+    width: 100%;
+    background-color: $purple;
+    margin-bottom: 1rem;
 }
 
 .pi {
