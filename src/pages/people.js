@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout/layout'
+import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import khadidja from '../images/people/khadidja-habel.jpg';
 import rana from '../images/people/rana-elnady.jpg';
@@ -8,6 +9,7 @@ import './people.scss'
 export default function People() {
     return (
         <Layout>
+            <Seo title="People" />
             <div>
                 <div className='flex'>
                     <div>

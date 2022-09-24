@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "http://www.diunguyenlab.com",
-    title: "diunguyenlabcom",
-    description: "Initial Title"
+    title: "Diu Nguyen Lab",
+    description: "Official website of the Diu Nguyen research group based at Barts Cancer Institute, London",
+    keywords: "Leukemia Research, Leukaemia, Cancer, Research, Cancer Research, Blood, Blood Cancer, Haematopoiesis, Hematopoiesis, haematopoiesis, hematopoiesis, RNA binding proteins, Post-transcriptional regulation, RNA metabolism"
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -15,5 +16,6 @@ module.exports = {
       },
       __key: "pages",
     },
+    `gatsby-plugin-react-helmet`,
   ],
 };

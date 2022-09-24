@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Layout from '../components/layout/layout';
+import Seo from "../components/seo/seo";
 import coverImg from '../images/CoverImage.jpg';
 import vision from '../images/Research_vision.svg';
 import researchPg from '../images/Research_page1.svg';
@@ -34,6 +35,7 @@ const ResearchComponent = () => {
     
     return (
         <Layout>
+            <Seo title="Research" />
             <div class="research marg-top-md">
 
                 <div className="flex">
@@ -52,15 +54,15 @@ const ResearchComponent = () => {
                     <div>
                     <p><strong>The overarching goal of our laboratory is to understand the biology of normal haematopoietic (HSCs) and leukaemic stem cells (LSCs) in order to selectively kill cancer stem cells for better leukaemia treatment.
                         </strong></p>  
-                        <p>Gene expression defines the fate and function of each cell. Our recent work and others have demonstrated that post-transcriptional regulation of gene expression by RNA-binding proteins (RBPs) plays a critical role in cancer including leukaemia (Vu,…, Nguyen et al. 2017; Nguyen et al. Nat. Comms 2020; Cheng,…, Nguyen et al. Cancer Cells 2021; Prieto and Nguyen et al. Nat Cancer 2021). Importantly, the identification of dysregulated RBPs in leukaemia has led to the rapid development of therapeutic strategies to specifically target several RBPs (Minuesa et al. 2019; Han et al. 2017; Assouline et al. 2015). Despite their importance and therapeutic potential, only a small fraction of RNA regulators (>1,700 known RBPs, Castello et al. 2012; Graindorge et al 2019) has been investigated in leukaemia. 
+                        <p>Gene expression defines the fate and function of each cell. Our recent work and others have demonstrated that post-transcriptional regulation of gene expression by RNA-binding proteins (RBPs) plays a critical role in cancer including leukaemia (Vu,…, Nguyen et al. 2017; Nguyen et al. Nat. Comms 2020; Cheng,…, Nguyen et al. Cancer Cells 2021; Prieto and Nguyen et al. Nat Cancer 2021). Importantly, the identification of dysregulated RBPs in leukaemia has led to the rapid development of therapeutic strategies to specifically target several RBPs. Despite their importance and therapeutic potential, only a small fraction of RNA regulators (>1,700 known RBPs) has been investigated in leukaemia. 
                         </p>
                         <p>Our lab aims to expand understanding of how dysregulated post-transcriptional processes contribute to the initiation and progression of various types of leukaemia. We particularly focus on acute myeloid leukaemia (AML) which has been one of the most aggressive and fatal types of blood cancer. To achieve this aim, we will:
                         </p>
 
                         <ul>
-                            <li>Determine the role of a subset of aberrantly expressed RBPs in LSC survival and whether they contribute to leukaemia pathogenesis.</li>
-                            <li>Investigate how these RBPs control normal HSCs behaviours.</li>
-                            <li>Elucidate the molecular basis for RBP functions in blood cancer.</li>
+                            <li>1. Determine the role of a subset of aberrantly expressed RBPs in LSC survival and whether they contribute to leukaemia pathogenesis.</li>
+                            <li>2. Investigate how these RBPs control normal HSCs behaviours.</li>
+                            <li>3. Elucidate the molecular basis for RBP functions in blood cancer.</li>
                         </ul>
                     </div>
                     <div style={{ padding: "0 .5rem", minWidth: ".5rem"}}>
