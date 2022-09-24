@@ -29,14 +29,22 @@ export default function People() {
                             </div>
                         </div>
                         <p>
-                            <strong>Diu T.T. Nguyen, PhD., is an incoming Group Leader and Lecturer at the Barts Cancer Centre, Queen Mary University of London in 2022. 
+                            <strong>Diu T.T. Nguyen, PhD., is a Group Leader and Lecturer at the Barts Cancer Centre, Queen Mary University of London in 2022. 
                             </strong>
                         </p>
                         <p>
-                            Diu received her undergraduate degree in Biology from Hanoi University of Science. She obtained her MSc in Biomolecular Sciences from Vrije Universiteit Amsterdam and the Whitehead Institute for Biomedical Research, MIT, under support from Huygens Scholarship. She was awarded an EC Marie Curie fellowship to complete her PhD (DPhil) from the University of Oxford, UK. Her PhD work focused on the role of chromatin remodeling factor ATRX in congenital genetic disorders and cancers. She uncovered the genomic regions ATRX interacts with and how ATRX loss leads to genome instability.   
+                          Diu received her undergraduate degree in Biology from Hanoi University of Science. 
+                          She obtained her MSc in Biomolecular Sciences from Vrije Universiteit Amsterdam and the Whitehead Institute for Biomedical Research, MIT, under support from Huygens Scholarship. 
+                          She was awarded an EC Marie Curie fellowship to complete her PhD (DPhil) from the University of Oxford, UK. 
+                          Her PhD work focused on the role of chromatin remodeling factor ATRX in congenital genetic disorders and cancers. 
+                          She uncovered the genomic regions ATRX interacts with and how ATRX loss leads to genome instability.
                         </p>
                         <p>
-                            Diu then moved to the Memorial Sloan-Kettering Cancer Center in New York, USA for her postdoctoral training in Dr. Michael Kharas’ laboratory, investigating the role of post-transcriptional regulation in normal and malignant cancer stem cells. She pioneered the use of RNA-editing based approaches to identify RNA targets of RNA-Binding Proteins (RBPs) in mammalian stem cells, which has provided new insights into RBP function in rare cells and opened a new avenue for stem cell research. She also discovered the oncogenic role of a number of RBPs in blood cancer. Diu is a recipient of the American Society of Hematology (ASH) Scholar Fellowship that supports her transition to independence. In August 2020, Diu was awarded the prestigious Career Development Fellowship from Cancer Research UK to start her own group at the Centre for Haemato-Oncology, Barts Cancer Institute.
+                          Diu then moved to the Memorial Sloan-Kettering Cancer Center in New York, USA for her postdoctoral training in Dr. Michael Kharas’ laboratory, investigating the role of post-transcriptional regulation in normal and malignant cancer stem cells. 
+                          She pioneered the use of RNA-editing based approaches to identify RNA targets of RNA-Binding Proteins (RBPs) in mammalian stem cells, which has provided new insights into RBP function in rare cells and opened a new avenue for stem cell research. 
+                          She also discovered the oncogenic role of a number of RBPs in blood cancer. 
+                          Diu is a recipient of the American Society of Hematology (ASH) Scholar Fellowship that supports her transition to independence. 
+                          In August 2020, Diu was awarded the prestigious Career Development Fellowship from Cancer Research UK to start her own group at the Centre for Haemato-Oncology, Barts Cancer Institute.
                         </p>
                         <p>For more information about Diu,please find her on <a href="https://twitter.com/diunguyen_vn_uk?s=20" target="_blank" rel="noopener noreferrer">Twitter</a>,<span> </span>
                             <a href="https://orcid.org/0000-0001-8328-0009" target="_blank" rel="noopener noreferrer">Orchid</a>,<span> </span>
@@ -48,7 +56,6 @@ export default function People() {
                             We currently have openings for the following positions:
                         </p>
                         <ul>
-                            <li>Postdoctoral scientists</li>
                             <li>Research assistants</li>
                             <li>
                             PhD students
