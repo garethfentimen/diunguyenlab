@@ -4,6 +4,9 @@ import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import khadidja from '../images/people/khadidja-habel.jpg';
 import rana from '../images/people/rana-elnady.jpg';
+import phuong from '../images/people/IMG_9343_Phuong.jpg';
+import james from '../images/people/IMG_9332_James.jpg';
+import wisdom from '../images/people/IMG_9330_Wisdom.jpg';
 import './people.scss'
 
 export default function People() {
@@ -73,10 +76,25 @@ export default function People() {
                 </div>
             <hr />
             <div className="flex">
+                <img style={{ width: "30%" }} className="" src={james} alt="James Boncan" />
+                <div style={{ width: "20%" }} className="image-text marg-left-lg">
+                   <p>James Boncan</p>
+                   <h4 style={{color: 'gray'}}>Postdoctoral Research Scientist</h4>
+                </div>
+                <img style={{ width: "30%" }} className="" src={phuong} alt="Kim-Phuong To" />
+                <div style={{ width: "20%" }} className="image-text marg-left-lg">
+                   <p>Kim-Phuong To</p>
+                   <h4 style={{color: 'gray'}}>Research Technician</h4>
+               </div>
                 <img style={{ width: "30%" }} className="" src={khadidja} alt="Khadidja Habel" />
                 <div style={{ width: "20%" }} className="image-text marg-left-lg">
                    <p>Khadidja Habel</p>
-                   <h4 style={{color: 'gray'}}>MSc Student</h4>
+                   <h4 style={{color: 'gray'}}>Research Technician</h4>
+                </div>
+                <img style={{ width: "30%" }} className="" src={wisdom} alt="Wisdom Igiogbe" />
+                <div style={{ width: "20%" }} className="image-text marg-left-lg">
+                   <p>Wisdom Igiogbe</p>
+                   <h4 style={{color: 'gray'}}>Undergraduate placement student</h4>
                 </div>
                 <img style={{ width: "30%" }} className="" src={rana} alt="Rana Elnady" />
                 <div style={{ width: "20%" }} className="image-text marg-left-lg">
