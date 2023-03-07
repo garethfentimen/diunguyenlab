@@ -4,9 +4,9 @@ import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import khadidja from '../images/people/khadidja-habel.jpg';
 import rana from '../images/people/rana-elnady.jpg';
-import phuong from '../images/people/IMG_9343_Phuong.jpg';
-import james from '../images/people/IMG_9332_James.jpg';
-import wisdom from '../images/people/IMG_9330_Wisdom.jpg';
+import phuong from '../images/IMG_9343_Phuong.jpg';
+import james from '../images/IMG_9332_James.jpg';
+import wisdom from '../images/IMG_9330_Wisdom.jpg';
 import './people.scss'
 
 export default function People() {
