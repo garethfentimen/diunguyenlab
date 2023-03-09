@@ -48,7 +48,7 @@ body {
     width: 70%;
 }
 
-.width-100 {
+.width-100, .full-width {
     width: 100%;
 }
 
@@ -126,6 +126,12 @@ h2 {
     padding: 1rem;
 }.pad-xs {
     padding: .5rem;
+}
+
+.no-margin {
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 
 .marg-top-lg {

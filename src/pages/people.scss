@@ -32,3 +32,19 @@ hr {
         text-align: right;
     }
 }
+
+.pi-image {
+    margin-top: 8rem;
+}
+
+.diu-desc p {
+    font-size: 0.9rem;
+}
+
+.people-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}

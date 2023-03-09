@@ -40,7 +40,7 @@ export default function HeaderNav() {
             </div>
         </div>
         <div className="flex align-center copyright">
-            ©2021 DiuNguyen Lab, Cancer Research UK Barts Centre
+            ©{new Date().getFullYear()} DiuNguyen Lab, Cancer Research UK Barts Centre
         </div>
     </footer>;
 }
