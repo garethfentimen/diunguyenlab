@@ -17,8 +17,10 @@ binding proteins in B-cell lymphoma. Recruitment of a PhD student position in pr
 project starts in October 2023 or January 2024. Please get in touch for more information.</p>
 
 <h4>Our first Christmas lab lunch</h4>
+  <div className="flex">
 <img style={{ width: "50%" }} src={lab_lunch} alt="lab lunch" />
 <img style={{ width: "50%" }} src={campus_winter} alt="campus winter" />
+     </div>
     </div>
 
 
