@@ -22,6 +22,13 @@ project starts in October 2023 or January 2024. Please get in touch for more inf
 <img style={{ width: "25%" }} src={lab_lunch} alt="lab lunch" />
 <img style={{ width: "25%" }} src={campus_winter} alt="campus winter" />
      </div>
+
+<div className="flex-column">
+<h2>December 2022</h2>
+<p>We welcomed two members of the DiuNguyen lab: Khadidja Habel joined the lab as a research
+technician under ASH funding and James Boncan, PhD as a postdoctoral research assistant
+under our CRUK CDF grant.</p>
+</div>
     </div>
 
 
