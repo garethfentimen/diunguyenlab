@@ -9,14 +9,17 @@ export default function News() {
     return (
      <Layout>
             <Seo title="News" />
-<h2>March 2023</h2>
-<p>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-
+<div className="flex-column">
+        <h2>March 2023</h2>
+
+        <p>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-
 binding proteins in B-cell lymphoma. Recruitment of a PhD student position in progress! The
 project starts in October 2023 or January 2024. Please get in touch for more information.</p>
 
 <h4>Our first Christmas lab lunch</h4>
 <img style={{ width: "50%" }} src={lab_lunch} alt="lab lunch" />
 <img style={{ width: "50%" }} src={campus_winter} alt="campus winter" />
+    </div>
 
 <h2>December 2022</h2>
 <p>We welcomed two members of the DiuNguyen lab: Khadidja Habel joined the lab as a research
