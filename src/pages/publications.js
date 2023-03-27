@@ -11,6 +11,15 @@ export default function research() {
 
                 <div className="marg-left-md line-height-md">
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
+                    2023
+                    </h3>
+                    <ul>
+                        <li>
+                            <div>Mlynarczyk, Coraline, Matt Teater, Juhee Pae, Christopher R. Chin, Ling Wang, Theinmozhi Arulraj, Darko Barisic, Antonin Papin, Kenneth B. Hoehn, Ekaterina Kots, Jonatan Ersching, Arnab Bandyopadhyay, Ersilia Barin, Hui Xian Poh, Chiara M. Evans, Amy Chadburn, Zhengming Chen, Hao Shen, Hannah M. Isles, Benedikt Pelzer, Ioanna Tsialta, Ashley S. Doane, Huimin Geng, Muhammad Hassan Rehman, Jonah Melnick, Wyatt Morgan, <strong>Diu T.T. Nguyen</strong>, Olivier Elemento, Michael G. Kharas, Samie R. Jaffrey, David W. Scott, George Khelashvili, Michael Meyer-Hermann, Gabriel D. Victora, and Ari Melnick. "Btg1 Mutation Yields Supercompetitive B Cells Primed for Malignant Transformation." Science 379, no. 6629 (2023): eabj7412.</div>
+                        </li>
+                        
+                    </ul>
+                    <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                         2021
                     </h3>
                     <ul>
