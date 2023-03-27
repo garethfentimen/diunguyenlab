@@ -1,5 +1,5 @@
 import lab_lunch from '../images/Lab_lunch.png';
-import campus_winter from '../images/Campus_winter.png';
+import campus_winter from '../images/Campus_winter.jpg';
 
 import React from 'react'
 import Layout from '../components/layout/layout'
