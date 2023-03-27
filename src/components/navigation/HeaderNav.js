@@ -47,6 +47,11 @@ export default function HeaderNav() {
                         </Link>
                     </li>
                     <li className="nav-item">
+                        <Link to={`/news`}>
+                            News
+                        </Link>
+                    </li>
+                    <li className="nav-item">
                         <Link to={`/contact`}>
                             Vacancies/Lab Contact
                         </Link>
