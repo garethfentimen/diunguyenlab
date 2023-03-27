@@ -19,8 +19,8 @@ project starts in October 2023 or January 2024. Please get in touch for more inf
 
 <h4>Our first Christmas lab lunch</h4>
   <div className="flex lab-images">
-<img style={{ width: "10%" }} src={lab_lunch} alt="lab lunch" />
-<img style={{ width: "10%" }} src={campus_winter} alt="campus winter" />
+<img style={{ width: "25%" }} src={lab_lunch} alt="lab lunch" />
+<img style={{ width: "25%" }} src={campus_winter} alt="campus winter" />
      </div>
     </div>
 
