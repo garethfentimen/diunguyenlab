@@ -48,6 +48,23 @@ birthday, how special!</p>
 new exciting direction of research in the lab – investigating the role of translational regulation
 in cancer progression.</p>
 </div>
+
+<div className="flex-column">
+<h2>July 2022</h2>
+<p>Rana Elnady and Khadidja Habel joined the lab as MSc placement students.</p>
+</div>
+
+<div className="flex-column">
+<h2>May 2022</h2>
+<p>Bench and equipment are ready for experiments!</p>
+</div>
+
+<div className="flex-column">
+<h2>1st April 2022</h2>
+<p>The DiuNguyen laboratory is officially opened at the Centre for Haemato-Oncology, Barts
+Cancer Institute, QMUL.</p>
+</div>
+
     </div>
 
 
