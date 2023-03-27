@@ -29,6 +29,25 @@ project starts in October 2023 or January 2024. Please get in touch for more inf
 technician under ASH funding and James Boncan, PhD as a postdoctoral research assistant
 under our CRUK CDF grant.</p>
 </div>
+
+<div className="flex-column">
+<h2>October 2022</h2>
+<p>Wisdom Igiogbe, undergraduate student at Kent University, started his one-year
+placement as part of his sandwich programme at Queen Mary.</p>
+</div>
+
+<div className="flex-column">
+<h2>September 2022</h2>
+<p>Our first official member Kim-Phuong To, PhD joined the lab. She arrived in London on her
+birthday, how special!</p>
+</div>
+
+<div className="flex-column">
+<h2>August 2022</h2>
+<p>Our lab was awarded a CRUK City of London (CoL) Development Fund which started a brand-
+new exciting direction of research in the lab – investigating the role of translational regulation
+in cancer progression.</p>
+</div>
     </div>
 
 
