@@ -13,12 +13,12 @@ export default function People() {
     return (
         <Layout>
             <Seo title="People" />
-            <div class="flex-column">
-                <div class="flex-column text-center">
+            <div className="flex-column">
+                <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                     
-                    <div class="watermark">
-                        <img style={{ width: "60%" }} className="" src={groupPhoto} alt="The Diu Nguyen Lab Team" />
+                    <div className="watermark">
+                        <img style={{ width: "60%" }} src={groupPhoto} alt="The Diu Nguyen Lab Team" />
                     </div>
                 </div>
 

@@ -52,30 +52,13 @@ body {
     width: 100%;
 }
 
-@keyframes wipe-enter {
-	0% {
-		transform: scale(1, .025);
-	}
-	50% {
-		transform: scale(.6, .025);
-	}
-}
-
-.content {
-    margin-top: 10.5rem;
-}
-
 .animate {
     animation-name: ease-out;
 }
 
-$imageMargin: 4rem;
-$expImagesHeight: 10rem;
+$imageMargin: 1rem;
 .exp-images {
     display: flex;
-    position: fixed;
-    height: $expImagesHeight;
-    width: calc(100% - #{$imageMargin});
 
     img {
         height: auto;
@@ -84,7 +67,7 @@ $expImagesHeight: 10rem;
 
     $textWidth: 56rem;
     .banner {
-        transform: translate(0, 60%);
+        transform: translate(0, 92%);
         margin: 0 calc(49vw - (#{$textWidth} - #{$imageMargin} * 2) / 2);
         position: absolute;
         font-family: "Open Sans";
@@ -104,9 +87,6 @@ h2 {
 }
 
 @media (max-width: 1100px) {
-    .exp-images, .banner {
-        display: none;
-    }
     header .logo {
         font-size: 1rem;
     }
@@ -193,6 +173,11 @@ h2 {
     width: 30rem;
 }
 
+.no-select {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
 
 @media (max-width: 499px) {
     .research-figure {

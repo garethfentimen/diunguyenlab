@@ -5,39 +5,14 @@ import expImg2 from '../images/shLuc11_exp_1_edit.jpg';
 import homeResearchImg from '../images/Homepage_image.svg';
 
 const Home = ({data}) => {
-    useEffect(() => {
-      if (typeof window !== 'undefined') {
-        const imageBanner = document.querySelector('.exp-images');
-        const topHeader = document.getElementById('ScrollCheck');
-
-        const observer = new IntersectionObserver(entries => {  
-          entries.forEach(entry => {
-            // We will fill in the callback later...
-            console.log(entry);
-            if (!entry.isIntersecting) {
-              // It's visible. Add the animation class here!
-              imageBanner.classList.add('animate');
-              setTimeout(() => {
-                imageBanner.classList.remove('animate');
-                imageBanner.classList.add('hidden');
-              }, 1000);
-            }
-          });
-        });
-
-        observer.observe(topHeader);
-      }
-    });
-
     return (
         <div className="home">
-          <div id="ScrollCheck" className="scroll-check"></div>
           <div className="exp-images">
-          <div className="banner">
-            <span className="welcome">Welcome to the DiuNguyen Lab</span>
+            <div className="banner">
+              <span className="welcome no-select">Welcome to the DiuNguyen Lab</span>
+            </div>
+            <img alt="Welcome to the DiuNguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
           </div>
-          <img alt="Welcome to the DiuNguyen lab: superimposed on an image from a microscope" className={`exp-img`} src={expImg2} />
-        </div>
         <div className="content">
           <h3 style={{fontFamily: 'Exo2', color: 'gray'}}>Research Overview</h3>
           <div className="flex">

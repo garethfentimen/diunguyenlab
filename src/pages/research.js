@@ -7,36 +7,10 @@ import researchPg from '../images/Research_page1.svg';
 import './research.scss';
 
 const ResearchComponent = () => {
-    const [ showVision, setVision ] = useState();
-    const [ showPtr, setPtr ] = useState();
-    const [ showCoverImg, setCoverImg ] = useState();
-    
-    const showLightBox = (imageName) => {
-        switch (imageName.toLowerCase()) {
-            case 'vision': {
-                setVision(true);
-            }
-            break;
-            case 'ptr': {
-                setPtr(true); 
-            }
-            break;
-            case 'cover': {
-                setCoverImg(true); 
-            }
-            break;
-        }
-
-        if (typeof window !== `undefined`) {
-            window.scrollTo(0,0);
-        }
-    }
-
-    
     return (
         <Layout>
             <Seo title="Research" />
-            <div class="research marg-top-md">
+            <div className="research marg-top-md">
 
                 <div className="flex">
                     <div><p>Stem cells are key to our normal development. When a stem cell divides into two, it creates one progenitor and one renews itself. The progenitor continues differentiating into mature specialized cells while the stem cell repeats the division cycle of making progenitors and reproducing themselves. Stem cells survive much longer than ordinary cells, increasing the chance of accumulating mutations. It might take only a few mutations for one cell to lose control over its self-renewal, divide uncontrollably and become the source of cancer.</p>

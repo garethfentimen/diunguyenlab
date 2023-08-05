@@ -3,11 +3,10 @@
 
 .pre-header {
     background-color: $purple;
+    display: flex;
     height: .25rem;
-    margin: 0 2rem;
-    position: fixed;
-    width: calc(100% - 4rem);
-    top: 0px;
+    margin: 0 $defaultPageMargins;
+    width: calc(100% - $defaultPageMargins * 2);
 }
 
 header * {
@@ -22,6 +21,7 @@ li {
 
 a {
     text-decoration: none;
+    color: #fff !important;
 }
 
 .navbar {
@@ -68,10 +68,7 @@ a {
 header {
     background-color: $bartsBlue;
     display: flex;
-    position: fixed;
-    top: 4px;
-    margin: 0 2rem;
-    width: calc(100% - 4rem);
+    margin: 0 $defaultPageMargins;
 
     .logo {
         padding: 1rem;

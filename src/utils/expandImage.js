@@ -9,8 +9,8 @@ export default function showExpandImage(imageName, imgSmall) {
 }
 
 
-        // <div class="light-box">
-        //     <div class="flex">
+        // <div className="light-box">
+        //     <div className="flex">
         //         <h3 className="text-center width-100">{imageName}</h3>
         //         <button className="close" ariaLabel="Close" onClick={() => setClose(false)}>
         //             <span ariaHidden="true">&times;</span>

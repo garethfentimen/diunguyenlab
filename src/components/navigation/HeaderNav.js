@@ -4,9 +4,6 @@ import logo from '../../images/CRUK_BARTS_C_Neg_White.png';
 import './HeaderNav.scss';
 
 export default function HeaderNav() {
-
-
-
     function mobileMenu() {
         const hamburger = document.querySelector(".hamburger");
         const navMenu = document.querySelector(".nav-menu");

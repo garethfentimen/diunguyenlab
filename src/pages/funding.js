@@ -10,7 +10,7 @@ export default function funding() {
                 <div className="marg-top-sm width-100" style={{width: "20rem", marginLeft: "calc(50% - 10rem)"}}>
                             
                 </div>
-                <p class="text-center">
+                <p className="text-center">
                     <strong>Cancer Research UK (CRUK) Career Development Fellowship</strong>
                 </p>
                 <div className="width-100 flex-column text-center">
