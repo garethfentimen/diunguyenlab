@@ -95,7 +95,7 @@ in B-cell lymphoma.</p>
                         <p>While somatic alterations in genetic and epigenetic mechanisms regulating
 transcription in tumorigenesis have been intensively studied, the role of post-
 transcriptional regulation (PTR) of gene expression in cancer development has only
-emerged recently (Mlynarczyk et al. Science. 2023). <b>This study aims to identify the
+emerged recently <i>(Mlynarczyk et al. Science. 2023)</i>. <b>This study aims to identify the
 functional requirement of newly identified RBPs in B-cell lymphoma, and to
 determine their therapeutic potential in lymphoma treatment.</b></p>
 
@@ -114,8 +114,8 @@ determine their therapeutic potential in lymphoma treatment.</b></p>
                     <h2>Our Methods</h2>
                         <p>We will address our aims using state-of-the-art tools including unbiased
                         omic approaches to map RBPs’ binding sites and activities including
-                        HyperTRIBE (Nguyen et al., Nat Comms, 2020), Ribo-STAMP (Brannan et
-                        al. Nat Methods 2021) and high-end Mass spectrometry, combined with
+                        HyperTRIBE <i>(Nguyen et al., Nat Comms, 2020)</i>, Ribo-STAMP <i>(Brannan et
+                        al. Nat Methods 2021)</i> and high-end Mass spectrometry, combined with
                         haematopoietic assays, molecular/cell biology techniques, on human
                         cell lines, primary patient samples and patient-derived xenografts and
                         mouse genetic models.</p>
