@@ -31,9 +31,8 @@ export default function Contact() {
                 Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in RNA biology, molecular biology/cancer cell biology and haematology. Experience in myeloid biology, mouse models and bioinformatics would be strongly desirable. 
                 </p>
                 <p>
-                This is a 36-month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
+                This is a 36-month fixed term contract with the expected start date of November 2023.
                 </p>
-
 
                 <p>
                 <strong> Postdoctoral scientist position 2 </strong>
@@ -45,7 +44,7 @@ export default function Contact() {
                 Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in molecular biology/cancer cell biology and haematology. Experience in lymphoma biology, mouse models and bioinformatics would be strongly desirable.
                 </p>
                 <p>
-                This is a 30 month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
+                This is a 30 month fixed term contract with the expected start date of November 2023. 
                 </p>
                 <p>
                 The candidates will join a vibrant multidisciplinary, multi-institutional environment with a strong critical mass in RNA, genetics, epigenetics and cancer cell biology, and will be supported to develop their scientific career and have an impact in the fields.
