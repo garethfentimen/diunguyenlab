@@ -21,28 +21,35 @@ export default function Contact() {
               <div className="flex-column" style={{marginBottom: '1rem'}}>
                 <h3 style={{fontFamily: "Exo2", color: "gray"}}>New openings:</h3>
                 <p>
-   <strong> Postdoctoral scientist position 1 </strong>
+                <strong> Postdoctoral scientist position 1 </strong>
+                </p>
 
-A postdoctoral research position is available to investigate the molecular mechanisms of newly identified RNA regulators in myeloid leukaemia, and to determine their therapeutic potentials. The project is based on our laboratory’s dropout screen which identified a non-canonical RNA-binding protein (RBP), previously known a co-transcription factor, to be overexpressed and required for human acute myeloid leukaemia cell lines. Our goal now is to reveal its therapeutic potential in primary AML cells and mouse genetic models, and understand the mechanisms by which this RBP functions. We will employ cutting-edge methodologies such as iCLIP, HyperTRIBE, CRISPR-Cas9 tiling mutagenesis, and next-generation sequencing approaches, in combination with in vitro/in vivo haematopoietic assays and molecular cell biology techniques to comprehensively decipher the mechanism and fun. 
+                <p>
+                A postdoctoral research position is available to investigate the molecular mechanisms of newly identified RNA regulators in myeloid leukaemia, and to determine their therapeutic potentials. The project is based on our laboratory’s dropout screen which identified a non-canonical RNA-binding protein (RBP), previously known a co-transcription factor, to be overexpressed and required for human acute myeloid leukaemia cell lines. Our goal now is to reveal its therapeutic potential in primary AML cells and mouse genetic models, and understand the mechanisms by which this RBP functions. We will employ cutting-edge methodologies such as iCLIP, HyperTRIBE, CRISPR-Cas9 tiling mutagenesis, and next-generation sequencing approaches, in combination with in vitro/in vivo haematopoietic assays and molecular cell biology techniques to comprehensively decipher the mechanism and fun. 
+                </p>    
+                <p>
+                Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in RNA biology, molecular biology/cancer cell biology and haematology. Experience in myeloid biology, mouse models and bioinformatics would be strongly desirable. 
+                </p>
+                <p>
+                This is a 36-month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
+                </p>
 
-Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in RNA biology, molecular biology/cancer cell biology and haematology. Experience in myeloid biology, mouse models and bioinformatics would be strongly desirable. 
 
-This is a 36-month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
-
-</p>
-
-<p>
-<strong> Postdoctoral scientist position 2 </strong>
-
-A postdoctoral research position is available to investigate the functional requirement and mechanisms of newly identified RNA regulators in B-cell lymphoma, and to determine their therapeutic potentials. Unlike in AML, the role of RNA binding proteins in the pathogenesis and progression of lymphoma is much less studied. Taking advantage of our laboratory well set-up to study RBP mechanism in AML, we collaborate with lymphoma experts in our institute including John Gribben, Jessica Okosun and John Riches, to spearhead this new research direction. Our preliminary data show RBP high expression is correlated with poor prognosis in Diffuse Large B Cell Lymphoma (DLBCL) – the most aggressive form of B-cell lymphoma and their depletion is incompatible with lymphoma cell survival. We now seek to fully determine the functional requirement and molecular mechanism of RBPs in lymphoma. 
-
-Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in molecular biology/cancer cell biology and haematology. Experience in lymphoma biology, mouse models and bioinformatics would be strongly desirable.
-
-This is a 30 month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
-    </p>
-<p>
-The candidates will join a vibrant multidisciplinary, multi-institutional environment with a strong critical mass in RNA, genetics, epigenetics and cancer cell biology, and will be supported to develop their scientific career and have an impact in the fields.
-    </p>
+                <p>
+                <strong> Postdoctoral scientist position 2 </strong>
+                </p>
+                <p>
+                A postdoctoral research position is available to investigate the functional requirement and mechanisms of newly identified RNA regulators in B-cell lymphoma, and to determine their therapeutic potentials. Unlike in AML, the role of RNA binding proteins in the pathogenesis and progression of lymphoma is much less studied. Taking advantage of our laboratory well set-up to study RBP mechanism in AML, we collaborate with lymphoma experts in our institute including John Gribben, Jessica Okosun and John Riches, to spearhead this new research direction. Our preliminary data show RBP high expression is correlated with poor prognosis in Diffuse Large B Cell Lymphoma (DLBCL) – the most aggressive form of B-cell lymphoma and their depletion is incompatible with lymphoma cell survival. We now seek to fully determine the functional requirement and molecular mechanism of RBPs in lymphoma. 
+                </p>
+                <p>
+                Essential requirements for this post include a PhD/near completion in a relevant biological subject, significant laboratory experience in molecular biology/cancer cell biology and haematology. Experience in lymphoma biology, mouse models and bioinformatics would be strongly desirable.
+                </p>
+                <p>
+                This is a 30 month fixed term contract with the start date of November 2023. A short delay (1-2 months) in the start date can be considered. 
+                </p>
+                <p>
+                The candidates will join a vibrant multidisciplinary, multi-institutional environment with a strong critical mass in RNA, genetics, epigenetics and cancer cell biology, and will be supported to develop their scientific career and have an impact in the fields.
+                </p>
     
                 <p>
                 <strong> MSc students and PhD candidates are always welcome to contact us for potential opportunities.</strong> More about MSc and PhD programs at Barts Cancer Institute are available at 
