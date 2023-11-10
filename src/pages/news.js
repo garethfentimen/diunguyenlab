@@ -1,5 +1,7 @@
 import lab_lunch from '../images/Lab_lunch.png';
 import campus_winter from '../images/Campus_winter.jpg';
+import summer2023_1 from '../images/Summer2023_1.jpg';
+import summer2023_2 from '../images/Summer2023_2.jpg';
 
 import React from 'react'
 import Layout from '../components/layout/layout'
@@ -22,8 +24,8 @@ export default function News() {
 
           <h4>Pizza on the green</h4>
           <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={Summer2023_1} alt="Pizza party" />
-            <img style={{ width: "50%" }} src={Summer2023_2} alt="Pizza party star" />
+            <img style={{ width: "30%" }} src={summer2023_1} alt="Pizza party" />
+            <img style={{ width: "50%" }} src={summer2023_2} alt="Pizza party star" />
           </div>
           
           <div className="flex-column">
