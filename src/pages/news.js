@@ -13,29 +13,31 @@ export default function News() {
      <Layout>
         <Seo title="News" />
           <div className="flex-column">
-            <h2>November 2023</h2>
-            <p>Congratulations to Khadidja for landing a great position at the Francis Crick institute and Nilo for becoming an NHS medical scientist at Bedfordshire hospital!</p> 
-          </div>
-        
-          <div className="flex-column">
-          <h2>September 2023</h2>
-          <p>We celebrated the successful lab project completion of our three amazing students, Wisdom, Nilo and Siddhi. Well done!</p>
-          </div>
-
-          <h4>Pizza on the green</h4>
-          <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={summer2023_1} alt="Pizza party" />
-            <img style={{ width: "50%" }} src={summer2023_2} alt="Pizza party star" />
+              <div className="flex-column">
+                <h2>November 2023</h2>
+                <p>Congratulations to Khadidja for landing a great position at the Francis Crick institute and Nilo for becoming an NHS medical scientist at Bedfordshire hospital!</p> 
+              </div>
+            
+              <div className="flex-column">
+              <h2>September 2023</h2>
+              <p>We celebrated the successful lab project completion of our three amazing students, Wisdom, Nilo and Siddhi. Well done!</p>
+              </div>
+    
+              <h4>Pizza on the green</h4>
+              <div className="flex lab-images">
+                <img style={{ width: "30%" }} src={summer2023_1} alt="Pizza party" />
+                <img style={{ width: "30%" }} src={summer2023_2} alt="Pizza party star" />
+              </div>
           </div>
           
           <div className="flex-column">
-          <h2>March 2023</h2>
+            <h2>March 2023</h2>
 
-          <p>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-
+            <p>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-
   binding proteins in B-cell lymphoma. Recruitment of a PhD student position in progress! The
   project starts in October 2023 or January 2024. Please get in touch for more information.</p>
 
-          <h4>Our first Christmas lab lunch</h4>
+            <h4>Our first Christmas lab lunch</h4>
         
         <div className="flex lab-images">
           <img style={{ width: "30%" }} src={lab_lunch} alt="lab lunch" />
