@@ -27,7 +27,7 @@ export default function News() {
           <h4>Pizza on the green</h4>
           <div className="flex lab-images">
             <img style={{ width: "30%" }} src={summer2023_1} alt="Pizza party" />
-            <img style={{ width: "30%" }} src={summer2023_2} alt="Pizza party star" />
+            <img style={{ width: "50%" }} src={summer2023_2} alt="Pizza party star" />
           </div>
 
           <h2>March 2023</h2>
