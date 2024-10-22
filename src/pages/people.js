@@ -4,8 +4,8 @@ import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import aiman from '../images/people/Aiman.jpeg';
 import phuong from '../images/IMG_9343_Phuong.jpg';
-import lauren from '../images/Lauren.jpeg';
-import bertina from '../images/Bertina.jpg';
+import lauren from '../images/people/Lauren.jpeg';
+import bertina from '../images/people/Bertina.jpg';
 import groupPhoto from '../images/NguyenLab_group_photo_140223.jpg';
 import './people.scss'
 
