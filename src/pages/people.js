@@ -18,7 +18,7 @@ export default function People() {
                     <h1>Meet the team</h1>
                     
                     <div className="watermark">
-                        <img style={{ width: "60%" }} src={} alt="The Diu Nguyen Lab Team" />
+                        <img style={{ width: "60%" }} src="" alt="The Diu Nguyen Lab Team" />
                     </div>
                 </div>
 
