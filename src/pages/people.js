@@ -4,7 +4,7 @@ import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import aiman from '../images/people/Aiman.jpeg';
 import phuong from '../images/people/Phuong.jpeg';
-import lauren from '../images/people/Lauren.jpeg';
+import lauren from '../images/people/LaurenHO.jpeg';
 import bertina from '../images/people/Bertina.jpg';
 import groupPhoto from '../images/NguyenLab_group_photo_140223.jpg';
 import './people.scss'
@@ -27,10 +27,7 @@ export default function People() {
                                 <h3 className="marg-left-xs">Diu T.T. Nguyen, PhD</h3>  
                             </div>
                         </div>
-                        <p>
-                            <strong>Diu T.T. Nguyen, PhD., is a Group Leader and Lecturer at the Barts Cancer Centre, Queen Mary University of London in 2022. 
-                            </strong>
-                        </p>
+                        
                         <div className="diu-desc">
                             <p>
                             Diu obtained her MSc in Biomolecular Sciences from Vrije Universiteit Amsterdam and the Whitehead Institute for Biomedical Research, MIT. 
