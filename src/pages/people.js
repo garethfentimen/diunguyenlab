@@ -3,7 +3,7 @@ import Layout from '../components/layout/layout'
 import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
 import aiman from '../images/people/Aiman.jpeg';
-import phuong from '../images/IMG_9343_Phuong.jpg';
+import phuong from '../images/people/Phuong.jpeg';
 import lauren from '../images/people/Lauren.jpeg';
 import bertina from '../images/people/Bertina.jpg';
 import groupPhoto from '../images/NguyenLab_group_photo_140223.jpg';
@@ -77,7 +77,7 @@ export default function People() {
                 <div className="people-grid">
                     <div className="text-center">
                         <h3 className="no-margin">Kim-Phuong To</h3>
-                        <h3 style={{color: 'gray'}} className="no-margin">Research Technician</h3>
+                        <h3 style={{color: 'gray'}} className="no-margin">Postdoctoral fellow</h3>
                         <div className="pad-md">
                             <img style={{ width: "40%" }} className="" src={phuong} alt="Kim-Phuong To" />
                         </div>
