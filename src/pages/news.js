@@ -2,6 +2,7 @@ import lab_lunch from '../images/Lab_lunch.png';
 import campus_winter from '../images/Campus_winter.jpg';
 import summer2023_1 from '../images/Summer2023_1.jpg';
 import summer2023_2 from '../images/Summer2023_2.jpg';
+import Joint_labs_Christmas_lunch_2023 from '../images/Summer2023_2.jpg';
 
 import React from 'react'
 import Layout from '../components/layout/layout'
@@ -17,7 +18,7 @@ export default function News() {
           <h4>Joint lab Christmas lunch with Deniz's and Rio-Machin's labs</h4>
     
           <div className="flex lab-images">
-              <img style={{ width: "30%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
+              <img style={{ width: "0%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
           </div>
     
           <div className="flex-column">
