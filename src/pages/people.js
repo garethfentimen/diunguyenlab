@@ -17,10 +17,10 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                     
-                    <div className="watermark">
+    {/*<div className="watermark">
                         <img style={{ width: "60%" }} src="" alt="The Diu Nguyen Lab Team" />
                     </div>
-                </div>
+                </div>*/}
 
                 <div className='flex marg-top-lg'>
                     <div>
