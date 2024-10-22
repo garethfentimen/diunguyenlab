@@ -24,13 +24,7 @@ export default function People() {
                                 <h3 style={{color: 'gray'}}>Principle Investigator:</h3>
                             </div>
                             <div>
-                                <h3 className="marg-left-xs">Diu T.T. Nguyen, PhD</h3>
-                                <div className="edu">
-                                    <div>Vrije Universiteit Amsterdam - MSc</div>
-                                    <div>University of Oxford – PhD </div>
-                                    <div>Memorial Sloan-Kettering Cancer Center – Postdoctoral Scholar</div>
-                                </div>
-                                
+                                <h3 className="marg-left-xs">Diu T.T. Nguyen, PhD</h3>  
                             </div>
                         </div>
                         <p>
