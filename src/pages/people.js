@@ -2,10 +2,10 @@ import React from 'react'
 import Layout from '../components/layout/layout'
 import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
-import khadidja from '../images/people/khadidja-habel.jpg';
+import aiman from '../images/people/Aiman.jpeg';
 import phuong from '../images/IMG_9343_Phuong.jpg';
-import james from '../images/IMG_9332_James.jpg';
-import wisdom from '../images/IMG_9330_Wisdom.jpg';
+import lauren from '../images/Lauren.jpeg';
+import bertina from '../images/Bertina.jpg';
 import groupPhoto from '../images/NguyenLab_group_photo_140223.jpg';
 import './people.scss'
 
@@ -18,7 +18,7 @@ export default function People() {
                     <h1>Meet the team</h1>
                     
                     <div className="watermark">
-                        <img style={{ width: "60%" }} src={groupPhoto} alt="The Diu Nguyen Lab Team" />
+                        <img style={{ width: "60%" }} src={} alt="The Diu Nguyen Lab Team" />
                     </div>
                 </div>
 
@@ -76,14 +76,6 @@ export default function People() {
 
                 <div className="people-grid">
                     <div className="text-center">
-                        <h3 className="no-margin">James Boncan</h3>
-                        <h3 style={{color: 'gray'}} className="no-margin">Postdoctoral Research Scientist</h3>
-                        <div className="pad-md">
-                            <img style={{ width: "40%" }} className="" src={james} alt="James Boncan" />
-                        </div>
-                    </div>
-
-                    <div className="text-center">
                         <h3 className="no-margin">Kim-Phuong To</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">Research Technician</h3>
                         <div className="pad-md">
@@ -92,38 +84,34 @@ export default function People() {
                     </div>
 
                     <div className="text-center">
-                        <h3 className="no-margin">Khadidja Habel</h3>
-                        <h3 style={{color: 'gray'}} className="no-margin">Research Technician</h3>
+                        <h3 className="no-margin">Bertina Dragunaite</h3>
+                        <h3 style={{color: 'gray'}} className="no-margin">PhD student</h3>
                         <div className="pad-md">
-                            <img style={{ width: "40%" }} className="" src={khadidja} alt="Khadidja Habel" />
+                            <img style={{ width: "40%" }} className="" src={bertina} alt="Bertina Dragnunaite" />
                         </div>
                     </div>
 
                     <div className="text-center">
-                        <h3 className="no-margin">Wisdom Igiogbe</h3>
-                        <h3 style={{color: 'gray'}} className="no-margin">Undergraduate placement student</h3>
+                        <h3 className="no-margin">Lauren Harrison-Oakes</h3>
+                        <h3 style={{color: 'gray'}} className="no-margin">PhD student</h3>
                         <div className="pad-md">
-                            <img style={{ width: "40%" }} className="" src={wisdom} alt="Wisdom Igiogbe" />
+                            <img style={{ width: "40%" }} className="" src={lauren} alt="Lauren Harrison-Oakes" />
                         </div>
                     </div>
                 </div>
             </div>
             
                 {/* 
-                <img style={{ width: "30%" }} className="" src={khadidja} alt="Khadidja Habel" />
+                <img style={{ width: "30%" }} className="" src={bertina} alt="Bertina Dragnunaite" />
                 <div style={{ width: "20%" }} className="image-text marg-left-lg">
-                   <p>Khadidja Habel</p>
-                   <h4 style={{color: 'gray'}}>Research Technician</h4>
+                   <p>Bertina Dragnunaite</p>
+                   <h4 style={{color: 'gray'}}>PhD student</h4>
                 </div>
-                <img style={{ width: "30%" }} className="" src={wisdom} alt="Wisdom Igiogbe" />
+                <img style={{ width: "30%" }} className="" src={lauren} alt="Lauren Harrison-Oakes" />
                 <div style={{ width: "20%" }} className="image-text marg-left-lg">
-                   <p>Wisdom Igiogbe</p>
-                   <h4 style={{color: 'gray'}}>Undergraduate placement student</h4>
+                   <p>Lauren Harrison-Oakes</p>
+                   <h4 style={{color: 'gray'}}>PhD student</h4>
                 </div>
-                <img style={{ width: "30%" }} className="" src={rana} alt="Rana Elnady" />
-                <div style={{ width: "20%" }} className="image-text marg-left-lg">
-                   <p>Rana Elnady</p>
-                   <h4 style={{color: 'gray'}}>MSc Student</h4>
                 </div> */}
 
             
