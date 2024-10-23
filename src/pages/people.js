@@ -45,7 +45,7 @@ export default function People() {
                         </div>
                     </div>
                     <div className="align-right image-right">
-                        <img className="pad-lg pi-image" style={{height: "50%"}} src={diu} alt="Dr Diu Nguyen" />
+                        <img className="pad-lg pi-image" style={{height: "30%"}} src={diu} alt="Dr Diu Nguyen" />
                         <div className="image-text marg-left-lg">
                             {/* <p>Group Leader</p>
                             <p>Lecturer</p> */}
