@@ -2,7 +2,7 @@ import lab_lunch from '../images/Lab_lunch.png';
 import campus_winter from '../images/Campus_winter.jpg';
 import summer2023_1 from '../images/Summer2023_1.jpg';
 import summer2023_2 from '../images/Summer2023_2.jpg';
-import Joint_labs_Christmas_lunch_2023 from '../images/Summer2023_2.jpg';
+import Joint_labs_Christmas_lunch_2023 from '../images/Joint_labs_Christmas_lunch_2023.jpg';
 
 import React from 'react'
 import Layout from '../components/layout/layout'
