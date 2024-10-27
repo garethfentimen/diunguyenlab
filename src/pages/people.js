@@ -56,7 +56,7 @@ export default function People() {
                 </div>
 
                 <div className="people-grid">
-                    <div className="text-center">
+                    <div className="text-center grid-bg">
                         <h3 className="no-margin">Kim-Phuong To</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">Postdoctoral fellow</h3>
                         <div className="pad-md">
@@ -64,7 +64,7 @@ export default function People() {
                         </div>
                     </div>
 
-                    <div className="text-center">
+                    <div className="text-center grid-bg">
                         <h3 className="no-margin">Bertina Dragunaite</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">PhD student</h3>
                         <div className="pad-md">
@@ -72,14 +72,14 @@ export default function People() {
                         </div>
                     </div>
 
-                    <div className="text-center">
+                    <div className="text-center grid-bg">
                         <h3 className="no-margin">Lauren Harrison-Oakes</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">PhD student</h3>
                         <div className="pad-md">
                             <img style={{ width: "40%" }} className="" src={lauren} alt="Lauren Harrison-Oakes" />
                         </div>
                     </div>
-                    <div className="text-center">
+                    <div className="text-center grid-bg">
                         <h3 className="no-margin">Aiman Ahmad</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">Clinician Research Training Fellow</h3>
                         <div className="pad-md">
