@@ -17,7 +17,7 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                 </div>
-                <div className='flex marg-top-lg'>
+                <div className='flex'>
                     <div>
                         <div className="flex pi">
                             <div className="flex-column">
@@ -45,7 +45,7 @@ export default function People() {
                         </div>
                     </div>
                     <div className="align-right image-right">
-                        <img className="pad-lg pi-image" style={{height: "40%"}} src={diu} alt="Dr Diu Nguyen" />
+                        <img className="pad-lg" style={{height: "35%"}} src={diu} alt="Dr Diu Nguyen" />
                         <div className="image-text marg-left-lg">
                             {/* <p>Group Leader</p>
                             <p>Lecturer</p> */}
@@ -83,7 +83,7 @@ export default function People() {
                         <h3 className="no-margin">Aiman Ahmad</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">Clinician Research Training Fellow</h3>
                         <div className="pad-md">
-                            <img style={{ width: "40%" }} className="" src={aiman} alt="Aiman Ahmad" />
+                            <img style={{ width: "35%" }} className="" src={aiman} alt="Aiman Ahmad" />
                         </div>
                     </div>
                 </div>
