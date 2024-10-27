@@ -19,7 +19,6 @@ export default function People() {
                 </div>
                 <div className="flex-column">
                     <div className='flex'>
-                        <div>
                             <div className="flex pi">
                                 <div className="flex-column">
                                     <h3 style={{color: 'gray'}}>Principle Investigator:</h3>
@@ -44,7 +43,6 @@ export default function People() {
                                     <a href="https://www.researchgate.net/profile/Diu-Nguyen" target="_blank" rel="noopener noreferrer">Research Gate</a>,<span> </span>
                                     <a href="https://scholar.google.com/citations?user=yZb8MqEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p> 
                             </div>
-                        </div>
                         <div className="align-right image-right">
                             <img className="pad-lg" style={{height: "35%"}} src={diu} alt="Dr Diu Nguyen" />
                             <div className="image-text marg-left-lg">
