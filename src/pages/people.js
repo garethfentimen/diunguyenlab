@@ -17,9 +17,9 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                 </div>
-                <div classNme="flex-column">
-                    <div className='flex'>
-                        <div>
+                <div classNme="flex-column grid-bg pad-btm-lg">
+                    <div className='flex diu-text-container'>
+                        <div style={{'max-width': '80%'}}>
                             <div className="flex pi">
                                 <div className="flex-column">
                                     <h3 style={{color: 'gray'}}>Principle Investigator:</h3>
@@ -47,12 +47,6 @@ export default function People() {
                         </div>
                         <div className="align-right image-right">
                             <img className="pad-lg" style={{width: "100%"}} src={diu} alt="Dr Diu Nguyen" />
-                            <div className="image-text marg-left-lg">
-                                {/* <p>Group Leader</p>
-                                <p>Lecturer</p> */}
-                                <p>CRUK Career Development Fellow</p>
-                                <p>ASH Scholar Fellow</p>
-                            </div>
                         </div>
                     </div>
                 </div>
