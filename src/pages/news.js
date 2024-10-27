@@ -18,7 +18,7 @@ export default function News() {
           <h4>Joint lab Christmas lunch with Deniz's and Rio-Machin's labs</h4>
     
           <div className="flex lab-images">
-              <img style={{ width: "0%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
+              <img style={{ width: "30%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
           </div>
     
           <div className="flex-column">
