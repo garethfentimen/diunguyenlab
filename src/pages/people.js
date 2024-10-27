@@ -97,8 +97,14 @@ export default function People() {
                             <div className="diu-desc">
                                 <p>
                                 Quang-Anh Hoang - Research Technician. Current position: PhD student at University of British Columbia
+                                </p>
+                                <p>
                                 Khadidja Habel - Research Technician. Current position: Laboratory Research Technician at Francis Crick Institute
+                                </p>
+                                <p>
                                 James Boncan - PDRA. Current position: PDRA at Queen Mary University of London
+                                </p>
+                                <p>
                                 Wisdom Igiogbe - Undergraduate intern. Current position: undergraduate student at Kent University
                                 </p>
                                
