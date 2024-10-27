@@ -17,7 +17,7 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                 </div>
-                <div className="flex-column grid-bg pad-btm-lg">
+                <div className="flex-column grid-bg pad-btm-lg marg-btm-xl">
                     <div className='flex diu-text-container'>
                         <div style={{'max-width': '80%'}}>
                             <div className="flex pi">
