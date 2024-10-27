@@ -17,7 +17,7 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                 </div>
-                <div className="flex-column grid-bg pad-btm-lg marg-btm-xl">
+                <div className="flex-column grid-bg pad-btm-lg">
                     <div className='flex diu-text-container'>
                         <div style={{'max-width': '80%'}}>
                             <div className="flex pi">
@@ -81,6 +81,30 @@ export default function People() {
                         <div className="pad-md">
                             <img style={{ width: "35%" }} className="" src={aiman} alt="Aiman Ahmad" />
                         </div>
+                    </div>
+                </div>
+
+                <div className="flex-column grid-bg pad-btm-lg">
+                    <div className='flex diu-text-container'>
+                        <div style={{'max-width': '80%'}}>
+                            <div className="flex pi">
+                                <div className="flex-column">
+                                    <h3 style={{color: 'gray'}}>Past members:</h3>
+                                </div>
+                                
+                            </div>
+                            
+                            <div className="diu-desc">
+                                <p>
+                                Quang-Anh Hoang - Research Technician. Current position: PhD student at University of British Columbia
+                                Khadidja Habel - Research Technician. Current position: Laboratory Research Technician at Francis Crick Institute
+                                James Boncan - PDRA. Current position: PDRA at Queen Mary University of London
+                                Wisdom Igiogbe - Undergraduate intern. Current position: undergraduate student at Kent University
+                                </p>
+                               
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
