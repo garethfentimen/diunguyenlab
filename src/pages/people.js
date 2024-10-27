@@ -17,7 +17,7 @@ export default function People() {
                 <div className="flex-column text-center">
                     <h1>Meet the team</h1>
                 </div>
-                <div class="flex-column">
+                <div className="flex-column">
                     <div className='flex'>
                         <div>
                             <div className="flex pi">
