@@ -18,7 +18,7 @@ export default function research() {
                             <div>Xie X., Chavez F.H., Baali I., Chu E. L., Evans C. M., Yang X., Wei W., Luo H., Park S.M., Chang K., Pierson A.J., Han G., Batchelor E., Morris Q. D., Vu L.P., <strong> Nguyen D.T.T.* </strong>, Kharas M.G.* 2024. <i>Uncovering the HOXA9 translational regulatory complex that promotes AML leukemic stem cells.</i> (*co-corresponding author). Blood (144, Supplement 1, page 4106). </div>
                         </li>
                         <li>
-                            <div>Wakiro I., Yue H., Yang X., Xie X., Chang K., Pierson A.J., Han G., Batchelor E., Cheng Y., <strong>Nguyen D.T.T.</strong>, Liu Z., Kharas M.G. 2024. <i>RBMX regulates YTHDC1 nuclear condensates to promote nascent transcription in acute myeloid leukemia.</i> Blood (144, Supplement 1, page 627).</div>                  </li>
+                            <div>Wakiro I., Yue H., Yang X., Xie X., Chang K., Pierson A.J., Han G., Batchelor E., Cheng Y., <strong>Nguyen D.T.T.</strong>, Liu Z., Kharas M.G. 2024. <i>RBMX regulates YTHDC1 nuclear condensates to promote nascent transcription in acute myeloid leukemia.</i> Blood (144, Supplement 1, page 627).</div>
                         </li>
                         <li>
                             <div>Wagstaff M.,<strong> Nguyen D.T.T </strong>, Blair A., Towler B.P., Newbury S.F., Morgan R.G., (2024). <i>A β-catenin: MSI2 axis regulates the expression of LEF1 and subsequent human haematopoietic stem/progenitor cell proliferation. </i> Biorxiv. </div>
