@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { graphql, Link } from 'gatsby';
+import React from "react";
+import { graphql } from 'gatsby';
 import './home.scss';
 import expImg2 from '../images/shLuc11_exp_1_edit.jpg';
 import homeResearchImg from '../images/Homepage_image.svg';

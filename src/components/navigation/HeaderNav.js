@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from "gatsby";
-import logo from '../../images/CRUK_BARTS_C_Neg_White.png';
 import './HeaderNav.scss';
 
 export default function HeaderNav() {

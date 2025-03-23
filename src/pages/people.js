@@ -6,7 +6,6 @@ import aiman from '../images/people/Aiman.jpeg';
 import phuong from '../images/people/Phuong.jpeg';
 import lauren from '../images/people/Lauren2.jpeg';
 import bertina from '../images/people/Bertina.jpg';
-import groupPhoto from '../images/NguyenLab_group_photo_140223.jpg';
 import './people.scss'
 
 export default function People() {

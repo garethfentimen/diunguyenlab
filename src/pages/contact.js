@@ -1,20 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Layout from '../components/layout/layout';
 import Seo from "../components/seo/seo";
 import './contact.scss';
-import { copyTextToClipboard } from '../utils/copyToClipboard';
 
 export default function Contact() {
-    const [ showTick, setShowTick ] = useState();
-    const [ showTickGmail, setShowTickGmail ] = useState();
-    const onClickEmail = (e, setFn) => {
-        var emailSpan = e.currentTarget ? e.currentTarget.querySelector('#email') : '';
-        copyTextToClipboard && emailSpan && copyTextToClipboard(emailSpan.innerText);
-        setFn(true);
-        if (typeof window !== 'undefined') {
-            window.setTimeout(() => setFn(false), 2500);
-        }
-    }
     return (
         <Layout>
             <Seo title="Opportunities | Contact" />
