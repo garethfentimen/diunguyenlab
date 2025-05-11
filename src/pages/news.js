@@ -1,3 +1,6 @@
+import anniversary3 from '../images/Anniversary3.jpg';
+import grouphoto25 from '../images/group2025.jpg';
+import eharecon25 from '../images/EHARecon25.jpg';
 import lab_lunch from '../images/Lab_lunch.png';
 import campus_winter from '../images/Campus_winter.jpg';
 import summer2023_1 from '../images/Summer2023_1.jpg';
@@ -14,7 +17,12 @@ export default function News() {
      <Layout>
         <Seo title="News" />
         <div className="flex-column">
-          
+         
+            <div className="flex-column">
+            <h2>October 2024</h2>
+            <p>Congratulations to Bertina for passing her 9 month viva!</p> 
+              </div>
+        
           <h4>Joint lab Christmas lunch with Deniz's and Rio-Machin's labs</h4>
     
           <div className="flex lab-images">
