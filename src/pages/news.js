@@ -17,13 +17,21 @@ export default function News() {
      <Layout>
         <Seo title="News" />
         <div className="flex-column">
-            
+
+            <div className="flex-column">
+            <h2>April 2025</h2>
+            <p>We celebrated the 3rd anniversary of our lab in beautiful sunny weather and bimbimbap!</p> 
+            </div>
+            <div className="flex lab-images">
+            <img style={{ width: "30%" }} src={anniversary3} alt="Anniversary 3rd" />
+            </div>
+        
             <div className="flex-column">
             <h2>March 2025</h2>
             <p>Diu presented Bertina and Phuong's work at the EHA Research conference in Malaga!</p> 
             </div>
             <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={eharecon25} alt="EHA Recon 20205" />
+            <img style={{ width: "30%" }} src={eharecon25} alt="EHA Recon 2025" />
             </div>
         
             <div className="flex-column">
