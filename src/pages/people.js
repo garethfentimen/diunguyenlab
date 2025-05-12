@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../components/layout/layout'
 import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
-import aiman from '../images/people/AA.jpg';
+import aiman from '../images/people/Aa.jpg';
 import phuong from '../images/people/Phuong.jpeg';
 import lauren from '../images/people/LO.jpg';
 import bertina from '../images/people/BD.jpg';
