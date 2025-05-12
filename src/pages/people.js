@@ -78,7 +78,7 @@ export default function People() {
                         <h3 className="no-margin">Aiman Ahmad</h3>
                         <h3 style={{color: 'gray'}} className="no-margin">Clinician Research Training Fellow</h3>
                         <div className="pad-md">
-                            <img style={{ width: "35%" }} className="" src={aiman} alt="Aiman Ahmad" />
+                            <img style={{ width: "40%" }} className="" src={aiman} alt="Aiman Ahmad" />
                         </div>
                     </div>
                 </div>
