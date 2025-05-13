@@ -13,6 +13,7 @@ export default function research() {
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                     2025
                     </h3>
+                        
                     <ul>
                         <li>
                             <div> M. Wagstaff, O. Sevim, A. Goff, M. Raynor, H. Park, E. J. Mancini, <strong> D.T.T.Nguyen </strong> et al. 2025. <i>β-Catenin interacts with canonical RBPs including MSI2 to associate with a Wnt signalling mRNA network in myeloid leukaemia cells.</i>. Oncogene 2025. </div>
