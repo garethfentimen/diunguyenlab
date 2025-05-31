@@ -16,7 +16,7 @@ export default function research() {
                         
                     <ul>
                         <li>
-                            <div> M. Wagstaff, O. Sevim, A. Goff, M. Raynor, H. Park, E. J. Mancini, <strong> D.T.T.Nguyen </strong> et al. 2025. <a href="https://www.nature.com/articles/s41388-025-03415-y" target="_blank" rel="noopener noreferrer">β-Catenin interacts with canonical RBPs including MSI2 to associate with a Wnt signalling mRNA network in myeloid leukaemia cells</a>,<span> </span> Oncogene 2025. </div>
+                            <div> M. Wagstaff, O. Sevim, A. Goff, M. Raynor, H. Park, E. J. Mancini, <strong> D.T.T.Nguyen </strong> et al. 2025. <a href="https://www.nature.com/articles/s41388-025-03415-y" target="_blank" rel="noopener noreferrer">β-Catenin interacts with canonical RBPs including MSI2 to associate with a Wnt signalling mRNA network in myeloid leukaemia cells</a>. Oncogene 2025. </div>
                         </li>
                     </ul>
                     
