@@ -12,17 +12,18 @@ export default function research() {
                     <div className="marg-left-md line-height-md">
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                     2025
-                    </h3>
+                    </h3> 
                         
                     <ul>
                         <li>
-                            <div> M. Wagstaff, O. Sevim, A. Goff, M. Raynor, H. Park, E. J. Mancini, <strong> D.T.T.Nguyen </strong> et al. 2025. <i>β-Catenin interacts with canonical RBPs including MSI2 to associate with a Wnt signalling mRNA network in myeloid leukaemia cells.</i>. Oncogene 2025. </div>
+                            <div> M. Wagstaff, O. Sevim, A. Goff, M. Raynor, H. Park, E. J. Mancini, <strong> D.T.T.Nguyen </strong> et al. 2025. <a href="https://www.nature.com/articles/s41388-025-03415-y" target="_blank" rel="noopener noreferrer">β-Catenin interacts with canonical RBPs including MSI2 to associate with a Wnt signalling mRNA network in myeloid leukaemia cells</a>,<span> </span> Oncogene 2025. </div>
                         </li>
                     </ul>
                     
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                     2024
                     </h3>
+                        
                     <ul>
                         <li>
                             <div>Xie X., Chavez F.H., Baali I., Chu E. L., Evans C. M., Yang X., Wei W., Luo H., Park S.M., Chang K., Pierson A.J., Han G., Batchelor E., Morris Q. D., Vu L.P., <strong> Nguyen D.T.T.* </strong>, Kharas M.G.* 2024. <i>Uncovering the HOXA9 translational regulatory complex that promotes AML leukemic stem cells.</i> (*co-corresponding author). Blood (144, Supplement 1, page 4106). </div>
