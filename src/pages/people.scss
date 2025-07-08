@@ -28,20 +28,26 @@ hr {
     margin-top: 8rem;
 }
 
-.diu-text-container {
-   padding: 0 4rem;
-}
-
-.diu-desc p {
+.member-desc p {
     font-size: 0.9rem;
 }
 
 .people-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
     grid-column-gap: 4rem;
     grid-row-gap: 4rem;
+
+    h4 {
+        color: gray;
+        margin: .5rem 0 0;
+    }
+
+    .people-image {
+        max-width: 16rem;
+        border-radius: 50%;
+    }
 }
 
 .grid-bg {
