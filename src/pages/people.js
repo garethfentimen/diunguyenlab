@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Layout from '../components/layout/layout'
 import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
@@ -19,8 +19,8 @@ export default function People() {
 
                 <div className="people-grid">
                     <div className="flex grid-bg">
-                        <div class="marg-left-sm">
-                            <div class="text-center">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
                                 <h3>Diu T.T. Nguyen, PhD</h3>
                                 <h4>Principle Investigator</h4>
                             </div>
@@ -49,8 +49,8 @@ export default function People() {
                     </div>
 
                     <div className="flex grid-bg">
-                        <div class="marg-left-sm">
-                            <div class="text-center">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
                                 <h3>Kim-Phuong To</h3>
                                 <h4>Postdoctoral fellow</h4>
                             </div>
@@ -62,8 +62,8 @@ export default function People() {
                     </div>
 
                     <div className="flex grid-bg">
-                        <div class="marg-left-sm">
-                            <div class="text-center">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
                                 <h3>Bertina Dragunaite</h3>
                                 <h4>PhD student</h4>
                             </div>
@@ -74,8 +74,8 @@ export default function People() {
                     </div>
 
                     <div className="flex grid-bg">
-                        <div class="marg-left-sm">
-                            <div class="text-center">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
                                 <h3>Lauren Harrison-Oakes</h3>
                                 <h4>PhD student</h4>
                             </div>
@@ -85,8 +85,8 @@ export default function People() {
                         </div>
                     </div>
                     <div className="flex grid-bg">
-                        <div class="marg-left-sm">
-                            <div class="text-center">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
                                 <h3>Aiman Ahmad</h3>
                                 <h4>Clinician Research Training Fellow</h4>
                                 <div></div>

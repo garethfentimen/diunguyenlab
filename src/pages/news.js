@@ -1,5 +1,4 @@
 import anniversary3 from '../images/Anniversary3.jpg';
-import grouphoto25 from '../images/group2025.jpg';
 import eharecon25 from '../images/EHARecon25.jpg';
 import lab_lunch from '../images/Lab_lunch.png';
 import campus_winter from '../images/Campus_winter.jpg';
