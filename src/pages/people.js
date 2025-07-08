@@ -2,10 +2,10 @@ import React from 'react'
 import Layout from '../components/layout/layout'
 import Seo from "../components/seo/seo"
 import diu from '../images/people/diu-nguyen.jpeg';
-import aiman from '../images/people/Aiman.jpeg';
+import aiman from '../images/people/Aa.jpg';
 import phuong from '../images/people/Phuong.jpeg';
-import lauren from '../images/people/Lauren2.jpeg';
-import bertina from '../images/people/Bertina.jpg';
+import lauren from '../images/people/LO.jpg';
+import bertina from '../images/people/BD.jpg';
 import './people.scss'
 
 export default function People() {
