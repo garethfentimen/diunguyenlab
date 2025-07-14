@@ -172,7 +172,7 @@ export default function People() {
                                 James Boncan - PDRA. Current position: PDRA at Queen Mary University of London
                                 </p>
                                 <p>
-                                Wisdom Igiogbe - Undergraduate intern. Current position: undergraduate student at Kent University
+                                Wisdom Igiogbe - Undergraduate intern. Current position: Clinic/Pathway Coordinator(Oncology) at the MTW NHS Trust.
                                 </p>
                                
                             </div>
