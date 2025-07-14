@@ -6,6 +6,7 @@ import aiman from '../images/people/Aa.jpg';
 import phuong from '../images/people/Phuong.jpeg';
 import lauren from '../images/people/LO.jpg';
 import bertina from '../images/people/BD.jpg';
+import bor from '../images/people/Bor.jpg';
 import './people.scss'
 
 export default function People() {
@@ -106,6 +107,7 @@ export default function People() {
                             <img className="pad-md people-image" src={lauren} alt="Lauren Harrison-Oakes" />
                         </div>
                     </div>
+        
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
                             <div className="text-center">
@@ -126,6 +128,27 @@ export default function People() {
                             <img className="pad-md people-image" src={aiman} alt="Aiman Ahmad" />
                         </div>
                     </div>
+
+                    <div className="flex grid-bg">
+                        <div className="marg-left-sm">
+                            <div className="text-center">
+                                <h3>Bor Makše</h3>
+                                <h4>UG placement student</h4>
+                                <div></div>
+                            </div>
+                            <div>
+                            <p>
+                            Bor Makše is doing a BSc in Medical & Pharmaceutical Biotechnology at the University of Applied Sciences IMC Krems, Austria. 
+                            He joined the lab in July 2025 for half a year of industrial placement. He hopes to gain experience in molecular and cancer cell biology field. 
+                            Paricularly, he will be working closely with Lauren to create fluorescence tag and dTAG knock-in cell line models to investigate the role and interactions of RNA-binding proteins in blood cancer cells.
+                            </p>
+                            </div>
+                        </div>
+                        <div className="align-right image-right">
+                            <img className="pad-md people-image" src={bor} alt="Bor Makše" />
+                        </div>
+                    </div>
+        
                 </div>
 
                 <div className="flex-column grid-bg pad-btm-lg marg-top-xl">
