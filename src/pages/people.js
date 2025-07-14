@@ -145,7 +145,7 @@ export default function People() {
                             </div>
                         </div>
                         <div className="align-right image-right">
-                            <img className="pad-md people-image" src={bor} style={{height: '90%'}} alt="Bor Makše" />
+                            <img className="pad-md people-image" src={bor} style={{height: '78%'; width: '15.5rem';}} alt="Bor Makše" />
                         </div>
                     </div>
         
