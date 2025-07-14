@@ -39,17 +39,21 @@ hr {
     grid-column-gap: 4rem;
     grid-row-gap: 4rem;
 
-    .name-title {
-        padding-bottom: 1rem;
-        border-bottom: 1px solid $headerBlue;
+    .member {
+        margin: 1rem 2rem;
         
-        h3 {
-            color: $headerBlue;
-        }
-        
-        h4 {
-            color: gray;
-            margin: .5rem 0 0;
+        .name-title {
+            padding-bottom: 1rem;
+            border-bottom: 1px solid $headerBlue;
+            
+            h3 {
+                color: $headerBlue;
+            }
+            
+            h4 {
+                color: gray;
+                margin: .5rem 0 0;
+            }
         }
     }
 
