@@ -94,6 +94,13 @@ export default function People() {
                                 <h3>Lauren Harrison-Oakes</h3>
                                 <h4>PhD student</h4>
                             </div>
+                            <div>
+                            <p>
+                            Lauren Harrison Oakes joined the Nguyen lab as a PhD student in September 2024. Her research in the lab focuses on the role of RNA binding proteins in B-cell lymphoma. 
+                            Before joining BCI, Lauren completed her BA and MSci in Biochemistry at the University of Cambridge. 
+                            During which she worked in Professor Jussi Taipale’s lab investigating transcription factor binding and chromatin regulation, followed by work in Professor Sir Tony Kouzarides’ lab exploring the role of an RNA binding protein in pancreatic cancer.
+                            </p>
+                            </div>
                         </div>
                         <div className="align-right image-right">
                             <img className="pad-md people-image" src={lauren} alt="Lauren Harrison-Oakes" />
@@ -105,6 +112,14 @@ export default function People() {
                                 <h3>Aiman Ahmad</h3>
                                 <h4>Clinician Research Training Fellow</h4>
                                 <div></div>
+                            </div>
+                            <div>
+                            <p>
+                            Aiman joined the Diu Nguyen lab as a CTRF/PhD in November 2024. His PhD is focussed on identifying novel RNA-binding protein dependencies in acute myeloid leukaemia. 
+                            Before joining the BCI, Aiman completed an intercalated MBBS/BMedSc at Monash University Malaysia in 2013, during which he did research with carbonate-apatite nanoparticles as a novel drug delivery device for insulin. 
+                            He then underwent medical training followed by 3 years of haematology specialty training in Doha, Qatar. 
+                            Aiman relocated to the UK in 2022 to continue haematology training under the East-of-England deanery, and completed 2 years before pursuing a PhD degree at BCI.
+                            </p>
                             </div>
                         </div>
                         <div className="align-right image-right">
