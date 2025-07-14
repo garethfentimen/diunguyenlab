@@ -39,6 +39,10 @@ hr {
     grid-column-gap: 4rem;
     grid-row-gap: 4rem;
 
+    h3 {
+        background-color: $headerBlue;
+    }
+    
     h4 {
         color: gray;
         margin: .5rem 0 0;
