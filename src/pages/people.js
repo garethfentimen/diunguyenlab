@@ -21,7 +21,7 @@ export default function People() {
                 <div className="people-grid">
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Diu T.T. Nguyen, PhD</h3>
                                 <h4>Principle Investigator</h4>
                             </div>
@@ -51,7 +51,7 @@ export default function People() {
 
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Kim-Phuong To</h3>
                                 <h4>Postdoctoral fellow</h4>
                             </div>
@@ -70,7 +70,7 @@ export default function People() {
 
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Bertina Dragunaite</h3>
                                 <h4>PhD student</h4>
                             </div>
@@ -91,7 +91,7 @@ export default function People() {
 
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Lauren Harrison-Oakes</h3>
                                 <h4>PhD student</h4>
                             </div>
@@ -110,7 +110,7 @@ export default function People() {
         
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Aiman Ahmad</h3>
                                 <h4>Clinician Research Training Fellow</h4>
                                 <div></div>
@@ -131,7 +131,7 @@ export default function People() {
 
                     <div className="flex grid-bg">
                         <div className="marg-left-sm">
-                            <div>
+                            <div class="name-title">
                                 <h3>Bor Makše</h3>
                                 <h4>UG placement student</h4>
                                 <div></div>
