@@ -73,6 +73,15 @@ export default function People() {
                                 <h3>Bertina Dragunaite</h3>
                                 <h4>PhD student</h4>
                             </div>
+                            <div>
+                            <p>
+                            Bertina Dragunaite relocated to the UK from Lithuania to pursue her undergraduate’s degree in Pharmacology and Molecular Genetics in King’s College London. 
+                            After that, she simultaneously has been working as an associate practitioner in the Department of Haemostasis, UCLH, and doing her full-time MRes degree in Cancer Biology and Cancer Informatics at Imperial College London. 
+                            Prior to starting her PhD in Diu Nguyen’s lab, Bertina worked as a Research Technician in Haemostasis Research Unit, University College London, where she contributed to numerous clinical research projects investigating thrombotic thrombocytopenic purpura disorder. 
+                            In her PhD, she is aiming to identify the role and mechanisms of MYB-Binding Protein 1A in acute myeloid leukaemia (AML) using various murine conditional knockout in vivo and in vitro models, as well as employing omics-based approaches. 
+                            Additionally, she is interested in exploring the translational reprogramming during AML development using a novel RNA editing-based approach.
+                            </p>
+                            </div>
                         </div>
                         <div className="align-right image-right">
                             <img src={bertina} className="pad-md people-image" alt="Bertina Dragnunaite" />
