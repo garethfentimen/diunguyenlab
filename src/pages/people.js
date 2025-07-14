@@ -20,7 +20,7 @@ export default function People() {
 
                 <div className="people-grid">
                     <div className="flex grid-bg">
-                        <div className="marg-left-sm">
+                        <div className="marg-left-lg marg-top-sm marg-bottom-sm">
                             <div class="name-title">
                                 <h3>Diu T.T. Nguyen, PhD</h3>
                                 <h4>Principle Investigator</h4>
