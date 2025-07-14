@@ -54,7 +54,13 @@ export default function People() {
                                 <h3>Kim-Phuong To</h3>
                                 <h4>Postdoctoral fellow</h4>
                             </div>
-                            <div></div>
+                            <div>
+                            <p>
+                            Phuong is originally from Vietnam. She did her PhD at Chonnam National University, Medical School, South Korea where she worked on identifying roles of zinc in prostate cancer and its potential therapeutics.  
+                            She then returned to Vietnam to join the Department of Regenerative Medicine at Tra Vinh University, as a lecturer of School of Medicine and Pharmacy. 
+                            She joined the Nguyen group in September 2022 and is working on investigating the role and mechanism of MYB-Binding Protein 1A in human AML and normal mouse haematopoiesis.
+                            </p>
+                            </div>
                         </div>
                         <div className="align-right image-right">
                             <img className="pad-md people-image" src={phuong} alt="Kim-Phuong To" />
