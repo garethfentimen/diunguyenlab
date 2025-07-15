@@ -145,7 +145,7 @@ export default function People() {
                             </div>
                         </div>
                         <div className="align-right image-right">
-                            <img className="pad-md people-image" src={bor} style={{height: '78%'; width: '15.5rem';}} alt="Bor Makše" />
+                            <img className="pad-md people-image" src={bor} alt="Bor Makše" />
                         </div>
                     </div>
         
@@ -162,6 +162,9 @@ export default function People() {
                             </div>
                             
                             <div className="diu-desc">
+                                <p>
+                                Salma Noorzai - MSc intern (from UC Louvain). Current position: Graduate student at UC Louvain.
+                                </p>
                                 <p>
                                 Quang-Anh Hoang - Research Technician. Current position: PhD student at University of British Columbia
                                 </p>
