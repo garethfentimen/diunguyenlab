@@ -23,6 +23,7 @@ export default function News() {
 
             <div className="flex-column">
             <h2>August 2025</h2>
+            <p> Congratulations to Lauren and Aiman on passing their 9 month viva! Big milestone in their PhD journey! </p> 
             <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
             </div>
             <div className="flex lab-images">
