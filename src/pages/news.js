@@ -26,10 +26,10 @@ export default function News() {
             <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
             </div>
             <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={goape1} alt="Go Ape 1"/>
-            <img style={{ width: "30%" }} src={goape2} alt="Go Ape 2"/>
-            <img style={{ width: "30%" }} src={goape3} alt="Go Ape 3"/>
-            <img style={{ width: "30%" }} src={goape4} alt="Go Ape 4"/>
+            <img style={{ width: "15%" }} src={goape1} alt="Go Ape 1"/>
+            <img style={{ width: "15%" }} src={goape2} alt="Go Ape 2"/>
+            <img style={{ width: "15%" }} src={goape3} alt="Go Ape 3"/>
+            <img style={{ width: "15%" }} src={goape4} alt="Go Ape 4"/>
             </div>
         
             <div className="flex-column">
