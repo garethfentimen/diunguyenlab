@@ -1,3 +1,7 @@
+import goape1 from '../images/goape1.jpg';
+import goape1 from '../images/goape2.jpg';
+import goape1 from '../images/goape3.jpg';
+import goape1 from '../images/goape4.jpg';
 import anniversary3 from '../images/Anniversary3.jpg';
 import eharecon25 from '../images/EHARecon25.jpg';
 import lab_lunch from '../images/Lab_lunch.png';
@@ -17,6 +21,17 @@ export default function News() {
         <Seo title="News" />
         <div className="flex-column">
 
+            <div className="flex-column">
+            <h2>August 2025</h2>
+            <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
+            </div>
+            <div className="flex lab-images">
+            <img style={{ width: "30%" }} src={goape1} alt="Go Ape 1"/>
+            <img style={{ width: "30%" }} src={goape2} alt="Go Ape 2"/>
+            <img style={{ width: "30%" }} src={goape3} alt="Go Ape 3"/>
+            <img style={{ width: "30%" }} src={goape4} alt="Go Ape 4"/>
+            </div>
+        
             <div className="flex-column">
             <h2>April 2025</h2>
             <p>We celebrated the 3rd anniversary of our lab in beautiful sunny weather and bimbimbap!</p> 
