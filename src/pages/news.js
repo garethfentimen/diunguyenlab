@@ -22,6 +22,11 @@ export default function News() {
         <div className="flex-column">
 
             <div className="flex-column">
+            <h2>September 2025</h2>
+            <p>We won a Greg Wolf fund for a collaborative project between our lab and Vikram Paralkar's lab at UPenn! This grant will allow us to explore therapeutic potential of rRNA processing factors in blood cancers.</p> 
+            </div>
+            
+            <div className="flex-column">
             <h2>August 2025</h2>
             <p> Congratulations to Lauren and Aiman on passing their 9 month viva! Big milestone in their PhD journey! </p> 
             <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
