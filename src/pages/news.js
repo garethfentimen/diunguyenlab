@@ -78,7 +78,7 @@ export default function News() {
           <h4>Pizza on the green</h4>
           <div className="flex lab-images">
             <img style={{ width: "15%" }} src={summer2023_1} alt="Pizza party" />
-            <img style={{ width: "15%" }} src={summer2023_2} alt="Pizza party star" />
+            <img style={{ width: "25%" }} src={summer2023_2} alt="Pizza party star" />
           </div>
 
           <h2>March 2023</h2>
@@ -90,8 +90,8 @@ project starts in October 2023 or January 2024. Please get in touch for more inf
           <h4>Our first Christmas lab lunch</h4>
     
           <div className="flex lab-images">
-              <img style={{ width: "15%" }} src={lab_lunch} alt="lab lunch" />
-              <img style={{ width: "20%" }} src={campus_winter} alt="campus winter" />
+              <img style={{ width: "20%" }} src={lab_lunch} alt="lab lunch" />
+              <img style={{ width: "30%" }} src={campus_winter} alt="campus winter" />
           </div>
 
           <div className="flex-column">
