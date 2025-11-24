@@ -13,6 +13,11 @@ export default function research() {
                     <h3 style={{ fontFamily: 'Open-Sans', color: '#454f58' }}>
                     2025
                     </h3> 
+                    <ul>
+                        <li>
+                            <div> L. Harrison-Oakes, W. Igiogbe, <strong> D.T.T.Nguyen </strong> 2025. <a href="https://www.cell.com/trends/cancer/fulltext/S2405-8033(25)00253-5"> Functional plasticity of RNA-binding proteins in cancer: both friend and foe </a>. Trends in Cancer 2025. </div>
+                        </li>
+                    </ul>
                         
                     <ul>
                         <li>
