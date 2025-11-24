@@ -24,36 +24,37 @@ export default function News() {
         <div className="flex-column">
             
             <div className="flex-column">
-            <h2>November 2025</h2>
-            <p>Potluck lunch to celebrate multiple achievements: Lauren's review paper in "Trends in Cancer"; Diu's promotion to senior lecturer and Phuong and Bertina's work got selected for an ASH talk.</p> 
+              <h2>November 2025</h2>
+              <p>Potluck lunch to celebrate multiple achievements: Lauren's review paper in "Trends in Cancer"; Diu's promotion to senior lecturer and Phuong and Bertina's work got selected for an ASH talk.</p> 
             </div>
 
             </div>
-            <div className="flex lab-images">
-            <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1"/>
-            <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2"/>
+              <div className="flex lab-images">
+              <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1"/>
+              <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2"/>
             </div>
         
             <div className="flex-column">
-            <h2>September 2025</h2>
-            <p>We won a Greg Wolf fund for a collaborative project between our lab and Vikram Paralkar's lab at UPenn! This grant will allow us to explore therapeutic potential of rRNA processing factors in blood cancers.</p> 
+              <h2>September 2025</h2>
+              <p>We won a Greg Wolf fund for a collaborative project between our lab and Vikram Paralkar's lab at UPenn! This grant will allow us to explore therapeutic potential of rRNA processing factors in blood cancers.</p> 
             </div>
             
             <div className="flex-column">
-            <h2>August 2025</h2>
-            <p> Congratulations to Lauren and Aiman on passing their 9 month viva! Big milestone in their PhD journey! </p> 
-            <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
+              <h2>August 2025</h2>
+              <p> Congratulations to Lauren and Aiman on passing their 9 month viva! Big milestone in their PhD journey! </p> 
+              <p> Summer outing 2025: We went go-aping in the beautiful Alexandra palace park!</p> 
             </div>
+
             <div className="flex lab-images">
-            <img style={{ width: "15%" }} src={goape1} alt="Go Ape 1"/>
-            <img style={{ width: "15%" }} src={goape2} alt="Go Ape 2"/>
-            <img style={{ width: "15%" }} src={goape3} alt="Go Ape 3"/>
-            <img style={{ width: "15%" }} src={goape4} alt="Go Ape 4"/>
+              <img style={{ width: "15%" }} src={goape1} alt="Go Ape 1"/>
+              <img style={{ width: "15%" }} src={goape2} alt="Go Ape 2"/>
+              <img style={{ width: "15%" }} src={goape3} alt="Go Ape 3"/>
+              <img style={{ width: "15%" }} src={goape4} alt="Go Ape 4"/>
             </div>
         
             <div className="flex-column">
-            <h2>April 2025</h2>
-            <p>We celebrated the 3rd anniversary of our lab in beautiful sunny weather and bimbimbap!</p> 
+              <h2>April 2025</h2>
+              <p>We celebrated the 3rd anniversary of our lab in beautiful sunny weather and bimbimbap!</p> 
             </div>
             <div className="flex lab-images">
             <img style={{ width: "30%" }} src={anniversary3} alt="Anniversary 3rd" />
