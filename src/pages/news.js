@@ -22,13 +22,12 @@ export default function News() {
       <Layout>
         <Seo title="News" />
         <div className="flex-column">
-            
             <div className="flex-column">
               <h2>November 2025</h2>
               <p>Potluck lunch to celebrate multiple achievements: Lauren's review paper in "Trends in Cancer"; Diu's promotion to senior lecturer and Phuong and Bertina's work got selected for an ASH talk.</p> 
             </div>
 
-            </div>
+            <div>
               <div className="flex lab-images">
               <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1"/>
               <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2"/>
