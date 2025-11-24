@@ -148,7 +148,6 @@ project starts in October 2023 or January 2024. Please get in touch for more inf
               <p>The DiuNguyen laboratory is officially opened at the Centre for Haemato-Oncology, Barts
               Cancer Institute, QMUL.</p>
           </div>
-       </div>
     </Layout>
     )
 }
