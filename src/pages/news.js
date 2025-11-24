@@ -1,5 +1,5 @@
-import Potluck2025-1 from '../images/Potluck2025-1.jpg';
-import Potluck2025-2 from '../images/Potluck2025-2.jpg';
+import Potluck2025_1 from '../images/Potluck2025_1.jpg';
+import Potluck2025_2 from '../images/Potluck2025_2.jpg';
 import goape1 from '../images/goape1.jpg';
 import goape2 from '../images/goape2.jpg';
 import goape3 from '../images/goape3.jpg';
@@ -30,8 +30,8 @@ export default function News() {
 
             </div>
             <div className="flex lab-images">
-            <img style={{ width: "15%" }} src={Potluck2025-1} alt="Potluck2025-1"/>
-            <img style={{ width: "15%" }} src={Potluck2025-2} alt="Potluck2025-2"/>
+            <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1"/>
+            <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2"/>
             </div>
         
             <div className="flex-column">
