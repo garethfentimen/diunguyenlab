@@ -56,27 +56,29 @@ export default function News() {
               <h2>April 2025</h2>
               <p>We celebrated the 3rd anniversary of our lab in beautiful sunny weather and bimbimbap!</p> 
             </div>
+
             <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={anniversary3} alt="Anniversary 3rd" />
+              <img style={{ width: "30%" }} src={anniversary3} alt="Anniversary 3rd" />
             </div>
         
             <div className="flex-column">
-            <h2>March 2025</h2>
-            <p>Diu presented Bertina and Phuong's work at the EHA Research conference in Malaga!</p> 
+              <h2>March 2025</h2>
+              <p>Diu presented Bertina and Phuong's work at the EHA Research conference in Malaga!</p> 
             </div>
+
             <div className="flex lab-images">
-            <img style={{ width: "30%" }} src={eharecon25} alt="EHA Recon 2025" />
+              <img style={{ width: "30%" }} src={eharecon25} alt="EHA Recon 2025" />
             </div>
         
             <div className="flex-column">
-            <h2>October 2024</h2>
-            <p>Congratulations to Bertina for passing her 9 month viva!</p> 
-              </div>
+              <h2>October 2024</h2>
+              <p>Congratulations to Bertina for passing her 9 month viva!</p> 
+            </div>
         
           <h4>Joint lab Christmas lunch with Deniz's and Rio-Machin's labs</h4>
     
           <div className="flex lab-images">
-              <img style={{ width: "30%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
+            <img style={{ width: "30%" }} src={Joint_labs_Christmas_lunch_2023} alt="Christmas lunch 2023 with Deniz's and Rio-Machin's labs" />
           </div>
     
           <div className="flex-column">
@@ -97,9 +99,11 @@ export default function News() {
 
           <h2>March 2023</h2>
 
-          <p>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-
-binding proteins in B-cell lymphoma. Recruitment of a PhD student position in progress! The
-project starts in October 2023 or January 2024. Please get in touch for more information.</p>
+          <p>
+            <span>Our lab won a Barts Charity research grant, which will allow us to work on the role of RNA-binding proteins in B-cell lymphoma.</span>
+            <span>Recruitment of a PhD student position in progress! Theproject starts in October 2023 or January 2024. </span>
+            <span>Please get in touch for more information.</span>
+         </p>
 
           <h4>Our first Christmas lab lunch</h4>
     
