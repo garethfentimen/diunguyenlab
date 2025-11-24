@@ -27,12 +27,11 @@ export default function News() {
               <p>Potluck lunch to celebrate multiple achievements: Lauren's review paper in "Trends in Cancer"; Diu's promotion to senior lecturer and Phuong and Bertina's work got selected for an ASH talk.</p> 
             </div>
 
-            <div>
-              <div className="flex lab-images">
-              <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1"/>
-              <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2"/>
+            <div className="flex lab-images">
+              <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1" />
+              <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2" />
             </div>
-        
+
             <div className="flex-column">
               <h2>September 2025</h2>
               <p>We won a Greg Wolf fund for a collaborative project between our lab and Vikram Paralkar's lab at UPenn! This grant will allow us to explore therapeutic potential of rRNA processing factors in blood cancers.</p> 
@@ -152,7 +151,7 @@ export default function News() {
                 <p>The DiuNguyen laboratory is officially opened at the Centre for Haemato-Oncology, Barts
                 Cancer Institute, QMUL.</p>
             </div>
-        </div>
+         </div>
       </Layout>
     )
 }
