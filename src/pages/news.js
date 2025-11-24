@@ -28,8 +28,8 @@ export default function News() {
             </div>
 
             <div className="flex lab-images">
-              <img style={{ width: "15%" }} src={Potluck2025_1} alt="Potluck2025_1" />
-              <img style={{ width: "15%" }} src={Potluck2025_2} alt="Potluck2025_2" />
+              <img style={{ width: "25%" }} src={Potluck2025_1} alt="Potluck2025_1" />
+              <img style={{ width: "25%" }} src={Potluck2025_2} alt="Potluck2025_2" />
             </div>
 
             <div className="flex-column">
